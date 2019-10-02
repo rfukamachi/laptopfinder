@@ -1,0 +1,580 @@
+// // <!DOCTYPE html>
+// // <html land="en-us">
+// //   <head>
+// //     <meta charset="UTF-8" />
+// //     <title>Laptop Finder</title>
+// //     <link
+// //       href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/lux/bootstrap.min.css"
+// //       rel="stylesheet"
+// //       integrity="sha384-hVpXlpdRmJ+uXGwD5W6HZMnR9ENcKVRn855pPbuI/mwPIEKAuKgTKgGksVGmlAvt"
+// //       crossorigin="anonymous"
+// //     />
+// //     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+// // <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+// // <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+// // <link rel="stylesheet" href="https://cdn.jsdelivr.net/leaflet/1/leaflet.css" />
+// // <script src="https://cdn.jsdelivr.net/leaflet/1/leaflet.js"></script>
+// // <script src="https://cdn.jsdelivr.net/npm/places.js@1.16.4"></script>
+// //     <link rel="stylesheet" href="../static/style.css">
+// //     <link rel="apple-touch-icon" sizes="180x180" href="../static/favicon_io/apple-touch-icon.png">
+// //     <link rel="icon" type="image/png" sizes="32x32" href="../static/favicon_io/favicon-32x32.png">
+// //     <link rel="icon" type="image/png" sizes="16x16" href="../static/favicon_io/favicon-16x16.png">
+// //     <link rel="manifest" href="/site.webmanifest">
+// //     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
+// //   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css" />
+// //   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css" />
+
+// //   <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
+// //   <script src="https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js"></script>
+// //   </head>
+// //   <body>
+// //     <nav class="navbar navbar-expand-lg navbar-light bg-light">
+// //       <a class="navbar-brand title-font" href="index.html">Laptop Finder</a>
+// //       <button
+// //         class="navbar-toggler"
+// //         type="button"
+// //         data-toggle="collapse"
+// //         data-target="#navbarNavDropdown"
+// //         aria-controls="navbarNavDropdown"
+// //         aria-expanded="false"
+// //         aria-label="Toggle navigation"
+// //       >
+// //         <span class="navbar-toggler-icon"></span>
+// //       </button>
+// //       <div class="collapse navbar-collapse" id="navbarNavDropdown">
+// //         <ul class="navbar-nav">
+// //           <li class="nav-item">
+// //             <a class="nav-link nav-font" href="index.html"
+// //               >Home</a
+// //             >
+// //           </li>
+
+// //           <li class="nav-item dropdown">
+// //             <a
+// //               class="nav-link dropdown-toggle nav-font"
+// //               id="navbarDropdownMenu"
+// //               data-toggle="dropdown"
+// //               aria-haspopup="true"
+// //               aria-expanded="false"
+// //             >
+// //             Discover
+// //             </a>
+// //             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+// //               <a class="dropdown-item nav-font" href="data.html"
+// //                 >Data Table</a
+// //               >
+// //               <a class="dropdown-item nav-font" href="chart.html"
+// //                 >Comparison Charts</a
+// //               >
+
+// //             </div>
+// //           </li>
+// //           <li class="nav-item active">
+// //             <a class="nav-link" href="map.html"
+// //               >Location Finder<span class="sr-only">(current)</span></a
+// //             >
+// //           </li>
+// //         </ul>
+// //       </div>
+// //     </div>
+// //     </nav>
+// //     <input type="search" id="input-map" class="form-control" placeholder="Search for a location close to you!" />
+// //     <div id="map-example-container"></div>
+
+// //     <div class="media">
+
+// //     </div>
+// //     <footer class="page-footer font-small blue">
+// //       <div class="footer-copyright text-center py-3">© 2019 Copyright:
+// //       <a href="https://github.com/gdoshi88">github.com/gdoshi88</a>
+// //       </div>
+// //       </footer>
+// //       <script src="{{ url_for('static', filename='js/map.js') }}"></script>
+
+// //     <script type="text/javascript">
+// //       var bestbuy = {{ bestbuy|tojson }};
+// //       var frys = {{ frys|tojson }};
+// //       // console.log(username);
+// //       var parsedBestBuy = JSON.stringify(bestbuy);
+// //       // console.log(parsedBestBuy);
+// //       var output = bestbuy.map(function(obj) {
+// //         return Object.keys(obj).sort().map(function(key) {
+// //           return obj[key];
+// //         });
+// //       });
+// //       // console.log(output);
+
+// //       // var bestbuyLat = parsedBestBuy['lat'];
+// //       // var bestbuyLng = parsedBestBuy['lng'];
+// //       // var bbpopup = parsedBestBuy['store', 'address'];
+// //       // var bestbuylatlng = parsedBestBuy['latlng'];
+// //       // console.log(bestbuylatlng);
+
+// //       var parsedFrys = JSON.stringify(frys);
+// //       // console.log(parsedFrys);
+// //       // var frysLat = parsedFrys['lat'];
+// //       // var frysLng = parsedFrys['lng'];
+// //       // var fryspopup = parsedFrys['store', 'address'];
+// //       // console.log(bestbuyLat, bestbuyLng);
+// //       // console.log(frysLat, frysLng);
+// //       // var bblatlng = parsedBestBuy['lat', 'lng'];
+// //       // console.log(bblatlng);
+// //       // let bb = []
+// //       // let frys = []
+// //       // var stringbb = JSON.stringify(bestbuyLat);
+// //       // console.log(stringbb);
+
+// //       // let x = bestbuyLat.forEach(function(bblat) {
+// //       //     bb.append(bblat);
+// //       //     console.log(bb);
+// //       // });
+
+// //       // var latlngbb = L.latLng(parsedBestBuy);
+
+// //       var greenIcon = new L.Icon({
+// //       iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-yellow.png',
+// //       shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/img/marker-shadow.png',
+// //       iconSize: [25, 41],
+// //       iconAnchor: [12, 41],
+// //       popupAnchor: [1, -34],
+// //       shadowSize: [41, 41]
+// //     });
+
+// // (function() {
+// //      var placesAutocomplete = places({
+// //      appId: "plOQN1VFM7PR",
+// //      apiKey: "365ba44089fa518e43f04b557e701aad",
+// //     container: document.querySelector("#input-map")
+// //   });
+
+// //   // var bbmarkers = [];
+// //   // for (var i = 0; i < output.length; i++) {
+// //   //   bbmarkers.push(
+// //   //     L.marker(output[i])
+// //   //   )
+// //   // };
+
+// //   // bblayers = L.layerGroup(bbmarkers);
+
+// //   // let overlayMaps = {
+// //   //   'overlay': bblayers
+// //   // };
+
+// //   var map = L.map("map-example-container", {
+// //     center: [39.8283, -98.5795],
+// //     zoom: 13,
+// //     scrollWheelZoom: false,
+// //     zoomControl: true,
+// //     // layers: [overlayMaps]
+// //   });
+
+// //   output.forEach
+// //   // console.log(bestbuyLat, bestbuyLng);
+// //   // console.log(frysLat, frysLng);
+// //   // var x = L.marker(latlngbb).addTo(map);
+
+// //   // let xy = bestbuylatlng.forEach(function(marker) {
+// //   //   new L.marker(marker).addTo(map);
+// //   // });
+
+// //   for (var i=0; i<output.length; i++) {
+
+// //            var lat = output[i][0];
+// //            var lon = output[i][1];
+// //           //  var popupText = markers[i][2];
+
+// //             var markerLocation = new L.LatLng(lat, lon);
+// //             var marker = new L.Marker(markerLocation, {icon: greenIcon}).addTo(map);
+
+// //             // marker.bindPopup(popupText);
+
+// //         }
+
+// //   var x =
+// //     "https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}";
+// //   var y = L.tileLayer(x, {
+// //     minZoom: 3,
+// //     maxZoom: 18,
+// //     attribution:
+// //       'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+// //     id: "mapbox.streets",
+// //     accessToken:
+// //       "pk.eyJ1IjoicmZ1a2FtYWNoaSIsImEiOiJjazBqNGlycTQwNnduM3BxczFvbmhxc3BzIn0.4YsTym9VpET0D6rq-qRiQw"
+// //   }).addTo(map);
+
+// //   var markers = [];
+
+// //   map.setView(new L.LatLng(39.8283, -98.5795), 1);
+
+// //   placesAutocomplete.on("suggestions", handleOnSuggestions);
+// //   placesAutocomplete.on("cursorchanged", handleOnCursorchanged);
+// //   placesAutocomplete.on("change", handleOnChange);
+// //   placesAutocomplete.on("clear", handleOnClear);
+
+// //   function handleOnSuggestions(e) {
+// //     markers.forEach(removeMarker);
+// //     markers = [];
+
+// //     if (e.suggestions.length === 0) {
+// //       map.setView(new L.LatLng(0, 0), 1);
+// //       return;
+// //     }
+
+// //     e.suggestions.forEach(addMarker);
+// //     findBestZoom();
+// //   }
+
+// //   function handleOnChange(e) {
+// //     markers.forEach(function(marker, markerIndex) {
+// //       if (markerIndex === e.suggestionIndex) {
+// //         markers = [marker];
+// //         marker.setOpacity(1);
+// //         findBestZoom();
+// //       } else {
+// //         removeMarker(marker);
+// //       }
+// //     });
+// //   }
+
+// //   function handleOnClear() {
+// //     map.setView(new L.LatLng(0, 0), 1);
+// //     markers.forEach(removeMarker);
+// //   }
+
+// //   function handleOnCursorchanged(e) {
+// //     markers.forEach(function(marker, markerIndex) {
+// //       if (markerIndex === e.suggestionIndex) {
+// //         marker.setOpacity(1);
+// //         marker.setZIndexOffset(1000);
+// //       } else {
+// //         marker.setZIndexOffset(0);
+// //         marker.setOpacity(0.5);
+// //       }
+// //     });
+// //   }
+
+// //   function addMarker(suggestion) {<!DOCTYPE html>
+// <html land="en-us">
+//   <head>
+//     <meta charset="UTF-8" />
+//     <title>Laptop Finder</title>
+//     <link
+//       href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/lux/bootstrap.min.css"
+//       rel="stylesheet"
+//       integrity="sha384-hVpXlpdRmJ+uXGwD5W6HZMnR9ENcKVRn855pPbuI/mwPIEKAuKgTKgGksVGmlAvt"
+//       crossorigin="anonymous"
+//     />
+//     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+// <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+// <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+// <link rel="stylesheet" href="https://cdn.jsdelivr.net/leaflet/1/leaflet.css" />
+// <script src="https://cdn.jsdelivr.net/leaflet/1/leaflet.js"></script>
+// <script src="https://cdn.jsdelivr.net/npm/places.js@1.16.4"></script>
+//     <link rel="stylesheet" href="../static/style.css">
+//     <link rel="apple-touch-icon" sizes="180x180" href="../static/favicon_io/apple-touch-icon.png">
+//     <link rel="icon" type="image/png" sizes="32x32" href="../static/favicon_io/favicon-32x32.png">
+//     <link rel="icon" type="image/png" sizes="16x16" href="../static/favicon_io/favicon-16x16.png">
+//     <link rel="manifest" href="/site.webmanifest">
+//     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
+//   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css" />
+//   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css" />
+
+//   <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
+//   <script src="https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js"></script>
+//   </head>
+//   <body>
+//     <nav class="navbar navbar-expand-lg navbar-light bg-light">
+//       <a class="navbar-brand title-font" href="index.html">Laptop Finder</a>
+//       <button
+//         class="navbar-toggler"
+//         type="button"
+//         data-toggle="collapse"
+//         data-target="#navbarNavDropdown"
+//         aria-controls="navbarNavDropdown"
+//         aria-expanded="false"
+//         aria-label="Toggle navigation"
+//       >
+//         <span class="navbar-toggler-icon"></span>
+//       </button>
+//       <div class="collapse navbar-collapse" id="navbarNavDropdown">
+//         <ul class="navbar-nav">
+//           <li class="nav-item">
+//             <a class="nav-link nav-font" href="index.html"
+//               >Home</a
+//             >
+//           </li>
+
+//           <li class="nav-item dropdown">
+//             <a
+//               class="nav-link dropdown-toggle nav-font"
+//               id="navbarDropdownMenu"
+//               data-toggle="dropdown"
+//               aria-haspopup="true"
+//               aria-expanded="false"
+//             >
+//             Discover
+//             </a>
+//             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+//               <a class="dropdown-item nav-font" href="data.html"
+//                 >Data Table</a
+//               >
+//               <a class="dropdown-item nav-font" href="chart.html"
+//                 >Comparison Charts</a
+//               >
+
+//             </div>
+//           </li>
+//           <li class="nav-item active">
+//             <a class="nav-link" href="map.html"
+//               >Location Finder<span class="sr-only">(current)</span></a
+//             >
+//           </li>
+//         </ul>
+//       </div>
+//     </div>
+//     </nav>
+//     <input type="search" id="input-map" class="form-control" placeholder="Search for a location close to you!" />
+//     <div id="map-example-container"></div>
+
+//     <div class="media">
+
+//     </div>
+//     <footer class="page-footer font-small blue">
+//       <div class="footer-copyright text-center py-3">© 2019 Copyright:
+//       <a href="https://github.com/gdoshi88">github.com/gdoshi88</a>
+//       </div>
+//       </footer>
+//       <script src="{{ url_for('static', filename='js/map.js') }}"></script>
+
+//     <script type="text/javascript">
+//       var bestbuy = {{ bestbuy|tojson }};
+//       var frys = {{ frys|tojson }};
+
+//       // console.log(username);
+
+//       // var parsedBestBuy = JSON.stringify(bestbuy);
+//       // var parsedFrys = JSON.stringify(frys);
+//       // console.log(parsedBestBuy);
+//       var output = bestbuy.map(function(obj) {
+//         // Object.keys(obj).sort().map(function(key) {
+//           //console.log('Best Buy Obj', obj);
+//           // obj.coords = [obj.lat, obj.lng];
+//           // obj.address = [obj.store, obj.address];
+//           return obj;
+//         //});
+//       });
+
+//       //console.log(output);
+//       // console.log(parsedFrys);
+//       var output2 = frys.map(function(obj) {
+//         // Object.keys(obj).sort().map(function(key) {
+//           //console.log('Best Buy Obj', obj);
+//           // obj.coords = [obj.lat, obj.lng];
+//           // obj.address = [obj.store, obj.address];
+//           return obj;
+//         //});
+//       });
+
+//       // var output3 = bestbuynames.map(function(obj) {
+//       //   return Object.keys(obj).sort().map(function(key) {
+//       //     return obj[key];
+//       //   });
+//       // });
+
+//       // var output4 = frysnames.map(function(obj) {
+//       //   return Object.keys(obj).sort().map(function(key) {
+//       //     return obj[key];
+//       //   });
+//       // });
+
+//       var yellowIcon = new L.Icon({
+//       iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-yellow.png',
+//       shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/img/marker-shadow.png',
+//       iconSize: [25, 41],
+//       iconAnchor: [12, 41],
+//       popupAnchor: [1, -34],
+//       shadowSize: [41, 41]
+//     });
+
+//     var redIcon = new L.Icon({
+//     iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+//     shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/img/marker-shadow.png',
+//     iconSize: [25, 41],
+//     iconAnchor: [12, 41],
+//     popupAnchor: [1, -34],
+//     shadowSize: [41, 41]
+//   });
+
+// (function() {
+//      var placesAutocomplete = places({
+//      appId: "plOQN1VFM7PR",
+//      apiKey: "365ba44089fa518e43f04b557e701aad",
+//     container: document.querySelector("#input-map")
+//   });
+
+//   // var bbmarkers = [];
+//   // for (var i = 0; i < output.length; i++) {
+//   //   bbmarkers.push(
+//   //     L.marker(output[i])
+//   //   )
+//   // };
+
+//   // bblayers = L.layerGroup(bbmarkers);
+
+//   // let overlayMaps = {
+//   //   'overlay': bblayers
+//   // };
+
+//   var map = L.map("map-example-container", {
+//     center: [39.8283, -98.5795],
+//     zoom: 13,
+//     scrollWheelZoom: false,
+//     zoomControl: true,
+//     // layers: [overlayMaps]
+//   });
+
+//   // output.forEach
+//   // console.log(bestbuyLat, bestbuyLng);
+//   // console.log(frysLat, frysLng);
+//   // var x = L.marker(latlngbb).addTo(map);
+
+//   // let xy = bestbuylatlng.forEach(function(marker) {
+//   //   new L.marker(marker).addTo(map);
+//   // });
+
+//   output.forEach((obj) => {
+//     // console.log('Best Buy Object', obj);
+//     L.marker([obj.lat, obj.lng], {icon: yellowIcon}).addTo(map).bindPopup(`${obj.store}: ${obj.address}`);
+//   });
+
+//   output2.forEach((obj) => {
+//     // console.log('Best Buy Object', obj);
+//     L.marker([obj.lat, obj.lng], {icon: redIcon}).addTo(map).bindPopup(`${obj.store}: ${obj.address}`);
+//   });
+//   // for (var i=0; i<output.length; i++) {
+
+//   //          var lat = output[i][0];
+//   //          var lon = output[i][1];
+//   //         //  var popupText = markers[i][2];
+
+//   //           var markerLocation = new L.LatLng(lat, lon);
+//   //           var marker = new L.Marker(markerLocation, {icon: yellowIcon}).addTo(map);
+
+//             // marker.bindPopup(popupText);
+
+//         // }
+
+//   // for (var i=0; i<output2.length; i++) {
+
+//   //     var lat = output2[i][0];
+//   //     var lon = output2[i][1];
+//   //   //  var popupText = markers[i][2];
+
+//   //     var markerLocation2 = new L.LatLng(lat, lon);
+//   //     var marker2 = new L.Marker(markerLocation2, {icon: redIcon}).addTo(map);
+
+//       // marker.bindPopup(popupText);
+
+//   // }
+
+//   var x =
+//     "https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}";
+//   var y = L.tileLayer(x, {
+//     minZoom: 3,
+//     maxZoom: 18,
+//     attribution:
+//       'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+//     id: "mapbox.streets",
+//     accessToken:
+//       "pk.eyJ1IjoicmZ1a2FtYWNoaSIsImEiOiJjazBqNGlycTQwNnduM3BxczFvbmhxc3BzIn0.4YsTym9VpET0D6rq-qRiQw"
+//   }).addTo(map);
+
+//   var markers = [];
+
+//   map.setView(new L.LatLng(39.8283, -98.5795), 1);
+
+//   placesAutocomplete.on("suggestions", handleOnSuggestions);
+//   placesAutocomplete.on("cursorchanged", handleOnCursorchanged);
+//   placesAutocomplete.on("change", handleOnChange);
+//   placesAutocomplete.on("clear", handleOnClear);
+
+//   function handleOnSuggestions(e) {
+//     markers.forEach(removeMarker);
+//     markers = [];
+
+//     if (e.suggestions.length === 0) {
+//       map.setView(new L.LatLng(0, 0), 1);
+//       return;
+//     }
+
+//     e.suggestions.forEach(addMarker);
+//     findBestZoom();
+//   }
+
+//   function handleOnChange(e) {
+//     markers.forEach(function(marker, markerIndex) {
+//       if (markerIndex === e.suggestionIndex) {
+//         markers = [marker];
+//         marker.setOpacity(1);
+//         findBestZoom();
+//       } else {
+//         removeMarker(marker);
+//       }
+//     });
+//   }
+
+//   function handleOnClear() {
+//     map.setView(new L.LatLng(0, 0), 1);
+//     markers.forEach(removeMarker);
+//   }
+
+//   function handleOnCursorchanged(e) {
+//     markers.forEach(function(marker, markerIndex) {
+//       if (markerIndex === e.suggestionIndex) {
+//         marker.setOpacity(1);
+//         marker.setZIndexOffset(1000);
+//       } else {
+//         marker.setZIndexOffset(0);
+//         marker.setOpacity(0.5);
+//       }
+//     });
+//   }
+
+//   function addMarker(suggestion) {
+//     var marker = L.marker(suggestion.latlng, { opacity: 0.4 });
+//     marker.addTo(map);
+//     markers.push(marker);
+//   }
+
+//   function removeMarker(marker) {
+//     map.removeLayer(marker);
+//   }
+
+//   function findBestZoom() {
+//     var featureGroup = L.featureGroup(markers);
+//     map.fitBounds(featureGroup.getBounds().pad(0.5), { animate: false });
+//   }
+// })();
+
+//     </script>
+//   </body>
+// </html>
+
+// //     var marker = L.marker(suggestion.latlng, { opacity: 0.4 });
+// //     marker.addTo(map);
+// //     markers.push(marker);
+// //   }
+
+// //   function removeMarker(marker) {
+// //     map.removeLayer(marker);
+// //   }
+
+// //   function findBestZoom() {
+// //     var featureGroup = L.featureGroup(markers);
+// //     map.fitBounds(featureGroup.getBounds().pad(0.5), { animate: false });
+// //   }
+// // })();
+
+// //     </script>
+// //   </body>
+// // </html>

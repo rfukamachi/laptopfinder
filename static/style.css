@@ -1,0 +1,66 @@
+body {
+  background: white;
+}
+
+.box {
+  padding: ;
+  background: white;
+  margin-top: 50px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+  align-content: center;
+}
+
+.font-class {
+  font-size: 18px;
+  letter-spacing: 0.1px;
+  word-spacing: 2px;
+  width: 100%;
+  font-weight: 300;
+  font-stretch: normal;
+  text-align: center;
+}
+
+.title-font {
+  font-size: 28px;
+  letter-spacing: 0.1px;
+}
+
+.nav-font {
+  font-size: 13px;
+}
+
+.divider-line {
+  width: 100%;
+  height: 3px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  border: 0 none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  opacity: 0.1;
+}
+
+.carousel-item {
+  width: 100%;
+  height: 300px;
+  margin-top: 17px;
+}
+
+.carousel-inner {
+  width: 425px;
+  height: 400px;
+  margin: auto;
+}
+
+#map-example-container {
+  height: 450px;
+}
+
+
+#filter-btn {
+  color: black;
+  background-color: darkgray;
+}

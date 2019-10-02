@@ -1,0 +1,1258 @@
+longName,address,city,region,postalCode,lat,lng
+Hato Rey,230 Calle Federico Costa,San Juan,PR,00918,18.42491,-66.07171
+Rio Hondo Mall,60 Ave Rio Hondo,Bayamon,PR,00961,18.42205,-66.16304
+Plaza Carolina Mall,Ave Fragoso Villa Fontana,Carolina,PR,00983,18.39141,-65.97489
+Holyoke Mall,50 Holyoke St,Holyoke,MA,01040,42.16931,-72.64198
+Leominster,33 Orchard Hill Park Dr,Leominster,MA,01453,42.52481,-71.7124
+Millbury,70 Worcester Providence Tpke,Millbury,MA,01527,42.19513,-71.77617
+Worcester,7 Neponset St,Worcester,MA,01606,42.29766,-71.80126
+Framingham,1 Worcester Rd,Framingham,MA,01701,42.3007,-71.39618
+Marlborough,769 Donald Lynch Blvd,Marlborough,MA,01752,42.35141,-71.61902
+Milford,208 Fortune Blvd,Milford,MA,01757,42.16256,-71.50184
+Burlington,84 Middlesex Tpke,Burlington,MA,01803,42.47698,-71.21574
+Saugus,1201 Broadway,Saugus,MA,01906,42.46081,-71.02633
+Danvers,230 Independence Way,Danvers,MA,01923,42.55285,-70.93768
+BOSTON SALE EVENT,140 Depot St,Bellingham,MA,02019,,
+Dedham,700 Providence Hwy,Dedham,MA,02026,42.24028,-71.17613
+Mansfield,280 School St,Mansfield,MA,02048,42.01288,-71.2264
+South Bay Center,14 Allstate Rd,Dorchester,MA,02125,42.32793,-71.06098
+Boston Logon Airport (BOS) Gate C15,1 Harborside Dr,Boston,MA,02128,42.366955,-71.027646
+Boston Logan Airport (BOS) Gate C30,1 Harborside Dr,Boston,MA,02128,42.366955,-71.027646
+Cambridge,100 Cambridgeside Pl,Cambridge,MA,02141,42.36743,-71.07724
+Everett,162 Santilli Hwy,Everett,MA,02149,42.40341,-71.06817
+Braintree,550 Grossman Dr,Braintree,MA,02184,42.21697,-70.99937
+Brockton,200 Westgate Dr,Brockton,MA,02301,42.0945,-71.05293
+Plymouth,228 Colony Place Rd,Plymouth,MA,02360,41.95184,-70.71687
+Watertown,550 Arsenal St,Watertown,MA,02472,42.3635,-71.15898
+Cape Cod,793 Iyannough Rd,Hyannis,MA,02601,41.66823,-70.29916
+North Dartmouth,27 Faunce Corner Rd,North Dartmouth,MA,02747,41.64314,-70.98644
+Attleboro,1337 S Washington St,North Attleboro,MA,02760,41.93542,-71.35265
+Seekonk,41 Commerce Way,Seekonk,MA,02771,41.79345,-71.32187
+Warwick,24 Universal Blvd,Warwick,RI,02886,41.70134,-71.49602
+Providence Airport (PVD) Gate 10,2000 Post Rd,Warwick,RI,02886,41.72716923058033,-71.43861472606659
+Providence Airport (PVD) Gate 7,2000 Post Rd,Warwick,RI,02886,41.72716923058033,-71.43861472606659
+Nashua,220 Daniel Webster Hwy,Nashua,NH,03060,42.71329,-71.44138
+Salem,290 S Broadway,Salem,NH,03079,42.75865,-71.21384
+Manchester,1500 S Willow St,Manchester,NH,03103,42.95693,-71.43094
+Concord,78 Damante Dr,Concord,NH,03301,43.21849,-71.48579
+Lebanon,274 Plainfield Rd,West Lebanon,NH,03784,43.62601,-72.32546
+Portsmouth,45 Gosling Rd,Newington,NH,03801,43.09463,-70.79889
+Portland Jetport Airport (PWM) Gate 10,1001 Westbrook St,Portland,ME,04102,43.6506624519825,-70.30973263084888
+Portland,364 Maine Mall Rd,South Portland,ME,04106,43.63429,-70.33656
+Augusta,14 Crossing Way,Augusta,ME,04330,44.30895,-69.80696
+Bangor,45 Bangor Mall Blvd,Bangor,ME,04401,44.8368,-68.74571
+Burlington Airport (BTV) Gate 11,1200 Airport Dr,S Burlington,VT,05403,44.46836069226265,-73.15648846328259
+Williston,26 Cypress St,Williston,VT,05495,44.44466,-73.10967
+Manchester,120 Slater St,Manchester,CT,06042,41.80726,-72.5353
+Enfield,95 Elm St,Enfield,CT,06082,41.99996,-72.58431
+West Simsbury,44A Albany Tpke,West Simsbury,CT,06092,41.81936,-72.86954
+West Hartford,1501 New Britain Ave,West Hartford,CT,06110,41.72321,-72.75882
+Newington,3377 Berlin Tpke,Newington,CT,06111,41.65577,-72.72641
+Waterford,913 Hartford Tpke,Waterford,CT,06385,41.38155,-72.15209
+Connecticut Turnpike,I95 Northbound,Branford,CT,06405,,
+Meriden,470 Lewis Ave,Meriden,CT,06451,41.55098,-72.80943
+Connecticut Turnpike Milford Southbound,I95 Northbound Past Exit 40,Milford,CT,06460,41.2340004829582,-73.0313715004867
+North Haven,398 Universal Dr N,North Haven,CT,06473,41.35479,-72.8739
+Orange,53 Boston Post Rd,Orange,CT,06477,41.27969,-72.98848
+Trumbull,100 Hawley Ln,Trumbull,CT,06611,41.23267,-73.15244
+Danbury,2 International Dr,Danbury,CT,06810,41.41726,-73.4181
+Connecticut Turnpike,I-95 Northbound Past Exit 12,Darien,CT,06820,,
+Connecticut Turnpike,I-95 Southbound Past Exit 10,Darien,CT,06820,,
+Norwalk,330 Connecticut Ave,Norwalk,CT,06854,41.10354,-73.43846
+Garden State Parkway,1339 N Broad St,Bloomfield,NJ,07003,40.69609925150871,-74.21598047018051
+Union,2391 US Highway 22 W,Union,NJ,07083,40.69128,-74.2962
+Vauxhall,2255 Springfield Ave,Vauxhall,NJ,07088,40.71636,-74.28626
+Secaucus,925 Patterson Plank Rd,Secaucus,NJ,07094,40.78131,-74.04517
+Newark Liberty Airport (EWR) Gate C120,Newark Liberty Intl Airport,Newark,NJ,07114,40.6927604675293,-74.18506622314453
+Newark Liberty Airport (EWR) Terminal B,10 Toler Pl,Newark,NJ,07114,40.710061,-74.190542
+Newark Liberty Airport (EWR)B3 Connector,Newark Liberty Intl Aprt Trm 3,Newark,NJ,07114,40.6927604675293,-74.18506622314453
+Jersey City,125 18th St,Jersey City,NJ,07310,40.73188,-74.03814
+West Paterson,30 Andrews Dr,Woodland Park,NJ,07424,40.88746,-74.21298
+Riverdale,48 State Rt 23,Riverdale,NJ,07457,40.99215,-74.31216
+Paramus - Fashion Center,Route 17 N,Paramus,NJ,07652,40.96613,-74.07558
+Bergen Town Center,2400 Bergen Town Ctr,Paramus,NJ,07652,40.91318,-74.05287
+Eatontown,50 State Route 36,Eatontown,NJ,07724,40.2896,-74.04857
+Manalapan,15 US Highway 9,Manalapan,NJ,07726,40.28863,-74.29731
+Holmdel,2130 State Route 35,Holmdel,NJ,07733,40.41039,-74.14365
+Rockaway,345 Mount Hope Ave,Rockaway,NJ,07866,40.90354,-74.55018
+East Hanover,410 State Route 10,East Hanover,NJ,07936,40.80272,-74.36048
+Cherry Hill,2130 Route 70 W,Cherry Hill,NJ,08002,39.92327,-75.03603
+Manahawkin,215 Stafford Park Blvd,Manahawkin,NJ,08050,39.70953,-74.28473
+Mount Laurel,1420 Nixon Dr,Mount Laurel,NJ,08054,39.94044,-74.95822
+Deptford,1851 Deptford Center Rd,Deptford,NJ,08096,39.82794,-75.09283
+Atlantic City Airport (ACY) Across Gate 6,101 Atlantic City Intl Airport,Egg Harbor Township,NJ,08234,39.40839,-74.543076
+Mays Landing,100 Consumer Sq,Mays Landing,NJ,08330,39.45413,-74.63011
+Vineland,3849 S Delsea Dr,Vineland,NJ,08360,39.43007,-75.03932
+Tropicana Casino,2831 Boardwalk,Atlantic City,NJ,08401,39.35306,-74.444879
+Ceasars Casino,2100 Pacific Ave,Atlantic City,NJ,08401,39.356966,-74.436027
+Harrah's Casino,777 Harrahs Blvd,Atlantic City,NJ,08401,39.3840229511261,-74.42669682204723
+Bally's Casino,1900 Pacific Ave,Atlantic City,NJ,08401,39.357292,-74.433624
+Princeton,251 Nassau Park Blvd,Princeton,NJ,08540,40.30301,-74.67942
+Brick,51 Chambersbridge Rd,Brick,NJ,08723,40.06095,-74.13855
+Bridgewater,300 Commons Way,Bridgewater,NJ,08807,40.59094,-74.62142
+East Brunswick,300 State Route 18,East Brunswick,NJ,08816,40.45593,-74.39452
+Woodbridge,675 US Highway 1 S,Iselin,NJ,08830,40.55978,-74.30771
+NEW YORK SALE EVENT,300 Ridge Rd,Piscataway,NJ,08854,40.3723,-74.4853
+Phillipsburg,1202 New Brunswick Ave,Phillipsburg,NJ,08865,40.67463,-75.13525
+Union Square,52 E 14th St,New York,NY,10003,40.73419,-73.99015
+Chelsea (23rd and 6th),60 W 23rd St,New York,NY,10010,40.74264,-73.9927
+Broadway NoHo,622 Broadway,New York,NY,10012,40.72578,-73.9961
+Midtown Manhattan (44th and 5th),529 5th Ave,New York,NY,10017,40.75418,-73.97993
+Upper West Side (62nd and Broadway),1880 Broadway,New York,NY,10023,40.77024,-73.98172
+86th and Lexington,1280 Lexington Ave,New York,NY,10028,40.77974,-73.95566
+Staten Island,2795 Richmond Ave,Staten Island,NY,10314,40.57675,-74.16736
+Bronx Terminal Market,610 Exterior St,Bronx,NY,10451,40.82173,-73.92997
+Fordham Road,402 E Fordham Rd,Bronx,NY,10458,40.86136,-73.89141
+Hartsdale,299 N Central Ave,Hartsdale,NY,10530,41.02699,-73.79254
+Cortlandt,3105 E Main St,Mohegan Lake,NY,10547,41.31083,-73.87128
+Mount Vernon,555 E Sandford Blvd,Mount Vernon,NY,10550,40.90204,-73.81959
+Yonkers,2478 Central Park Ave,Yonkers,NY,10710,40.9814,-73.8277
+Middletown,1100 N Galleria Dr,Middletown,NY,10941,41.45545,-74.37262
+Monroe,128 Bailey Farm Rd,Monroe,NY,10950,41.31601,-74.15185
+West Nyack,1240 Palisades Center Dr,West Nyack,NY,10994,41.09808,-73.9578
+Long Island City,5001 Northern Blvd,Long Island City,NY,11101,40.7536,-73.91196
+Bay Parkway Brooklyn,8923 Bay Pkwy,Brooklyn,NY,11214,40.59367,-73.99899
+Atlantic Center,625 Atlantic Ave,Brooklyn,NY,11217,40.68345,-73.97417
+Kings Plaza,5102 Avenue U,Brooklyn,NY,11234,40.60988,-73.9217
+Gateway Brooklyn,369 Gateway Dr,Brooklyn,NY,11239,40.65156,-73.87267
+Flushing,13107 40th Rd,Flushing,NY,11354,40.75662,-73.83698
+Laguardia Airport (LGA) Terminal B Gate A2,Laguardia Intl Airport,Flushing,NY,11369,40.764919,-73.872784
+Laguardia Airport (LGA) Terminal B Gate D3,Laguardia Intl Airport,Flushing,NY,11369,40.764919,-73.872784
+Laguardia Airport (LGA) Terminal B Gate C4/C6,Laguarida Airport,Flushing,NY,11371,40.77307891845703,-73.8756332397461
+Rego Park,8801 Queens Blvd,Elmhurst,NY,11373,40.73541,-73.87445
+John F. Kennedy Airport (JFK) Terminal 5 Gate 7,John F Kennedy Intl Airport,Jamaica,NY,11430,40.64364597201347,-73.79009194672108
+BBA013JFK7,John F Kennedy Intl Airport,Jamaica,NY,11430,40.64364597201347,-73.79009194672108
+John F. Kennedy Airport (JFK) Terminal 7 Gate 2,JFK International Airport,Jamaica,NY,11430,40.64364597201347,-73.79009194672108
+John F. Kennedy Airport (JFK) Terminal 2 Gate C61,JFK International Airport,Jamaica,NY,11430,40.64364597201347,-73.79009194672108
+John F. Kennedy Airport (JFK) Terminal 5 Gate 9,JFK International Airport,Jamaica,NY,11430,40.64364597201347,-73.79009194672108
+John F. Kennedy Airport (JFK) Terminal 5 Gate 23,JFK Intl Airport Terminal 5,Jamaica,NY,11430,40.64364597201347,-73.79009194672108
+John F. Kennedy (JFK) Terminal 8 Gate 37,10 N Service Rd,Jamaica,NY,11430,40.79787366092205,-73.50369036197662
+BBA231JFK8,JFK ACCESS RD,JAMAICA,NY,11430,,
+Baldwin,660 Sunrise Hwy,Baldwin,NY,11510,40.65588,-73.61252
+Valley Stream,6 West Circle Dr,Valley Stream,NY,11581,40.664,-73.72411
+Westbury,1100 Old Country Rd,Westbury,NY,11590,40.74432,-73.60206
+Bay Shore,1851 Sunrise Hwy,Bay Shore,NY,11706,40.74104,-73.23717
+South Setauket,261 Pond Path,South Setauket,NY,11720,40.88422,-73.09929
+Commack,3124 Jericho Tpke,East Northport,NY,11731,40.83832,-73.31902
+Huntington Station,148 Walt Whitman Rd,Huntington Station,NY,11746,40.82548,-73.41137
+Levittown,3601 Hempstead Tpke,Levittown,NY,11756,40.72741,-73.50096
+Patchogue,499 N Service Rd,Patchogue,NY,11772,40.7775,-73.03648
+Riverhead,1440 Old Country Rd,Riverhead,NY,11901,40.92756,-72.69209
+Albany,1 Crossgates Mall Rd,Albany,NY,12203,42.68998,-73.85028
+Kingston,1300 Ulster Ave,Kingston,NY,12401,41.96785,-73.98543
+Poughkeepsie,2001 South Rd,Poughkeepsie,NY,12601,41.62445,-73.92017
+Saratoga Springs,3062 Route 50,Saratoga Springs,NY,12866,43.10595,-73.74177
+Plattsburgh,60 Smithfield Blvd,Plattsburgh,NY,12901,44.70297,-73.49246
+Syracuse,9090 Destiny USA Dr,Syracuse,NY,13204,43.07071,-76.17363
+Dewitt,3401 Erie Blvd E,Dewitt,NY,13214,43.04749,-76.06743
+New Hartford,4725 Commercial Dr,New Hartford,NY,13413,43.09282,-75.30879
+Watertown,21085 Salmon Run Mall Loop W,Watertown,NY,13601,43.9789,-75.9515
+Vestal,3209 Vestal Pkwy E,Vestal,NY,13850,42.09699,-75.99727
+Hamburg,3701 McKinley Pkwy,Buffalo,NY,14219,42.78535,-78.80852
+Clarence,4401 Transit Rd,Buffalo,NY,14221,42.96759,-78.69401
+Walden Galleria,1 Galleria Dr,Cheektowaga,NY,14225,42.91436,-78.7611
+Buffalo Niagra Airport (BUF) Gate 21,4200 Genesee St,Cheektowaga,NY,14225,42.932336032390594,-78.7276390939951
+Amherst,1585 Niagara Falls Blvd,Amherst,NY,14228,42.99809,-78.81563
+Victor,7550 Commons Blvd,Victor,NY,14564,43.03386,-77.44925
+Henrietta,2345 Marketplace Dr,Rochester,NY,14623,43.07927,-77.63284
+Rochester,1200 Brooks Ave,Rochester,NY,14624,43.13076317310333,-77.6686654239893
+Greece,2833 W Ridge Rd,Rochester,NY,14626,43.20895,-77.70661
+Ithaca,40 Catherwood Rd,Ithaca,NY,14850,42.48215,-76.49118
+Big Flats,950 County Road 64,Elmira,NY,14903,42.15318,-76.87142
+Get Go Chippewa,111 MCMILLEN AVE,BEAVER FALLS,PA,15010,40.770754,-80.372858
+South Hills,5000 Alicia Dr,Bethel Park,PA,15102,40.34646,-80.04468
+Waterfront,680 Waterfront Dr E,Munhall,PA,15120,40.41247,-79.90323
+Monroeville,200 Mall Circle Dr,Monroeville,PA,15146,40.4312,-79.7999
+Get Go Southside,3247 E CARSON ST,PITTSBURGH,PA,15203,40.423218,-79.959917
+Get Go Robinson,6513 STEUBENVILLE PIKE,PITTSBURGH,PA,15205,40.450157,-80.112765
+Pittsburgh Airport (PIT) Gate A8,1000 Airport Blvd,Pittsburgh,PA,15231,40.495866,-80.256136
+Pittsburgh Airport (PIT) Gate B30,1000 Airport Blvd,Pittsburgh,PA,15231,40.495866,-80.256136
+Century III,473 Clairton Blvd,Pittsburgh,PA,15236,40.33486,-79.94469
+North Hills,4801 McKnight Rd,Pittsburgh,PA,15237,40.52348,-80.0068
+North Fayette,430 Home Dr,Pittsburgh,PA,15275,40.45265,-80.18156
+Greensburg,125 Donohoe Rd,Greensburg,PA,15601,40.30491,-79.50947
+Johnstown,430 Town Centre Dr,Johnstown,PA,15904,40.27781,-78.84265
+Cranberry,1000 Cranberry Square Dr,Cranberry Township,PA,16066,40.69121,-80.1047
+Erie,6650 Peach St,Erie,PA,16509,42.05709,-80.0922
+Altoona,1721 Osgood Dr,Altoona,PA,16602,40.49181,-78.38342
+State College,1650 N Atherton St,State College,PA,16803,40.80682,-77.89483
+Mechanicsburg,6416 Carlisle Pike,Mechanicsburg,PA,17050,40.24764,-77.00646
+Harrisburg Airport (MDT) Gate C1,1 Terminal Dr,Middletown,PA,17057,40.195738,-76.756521
+Harrisburg East,5000 Jonestown Rd,Harrisburg,PA,17112,40.30798,-76.80582
+York,2865 Concord Rd,York,PA,17402,39.98488,-76.67117
+Lancaster,1700 Fruitville Pike,Lancaster,PA,17601,40.06723,-76.315747
+Muncy,115 Lycoming Mall Cir,Muncy,PA,17756,41.24541,-76.83197
+Selinsgrove,110 Marketplace Blvd,Selinsgrove,PA,17870,40.84081,-76.8315
+Sands Casino (Bethlehem),77 Sands Blvd,Bethlehem,PA,18015,40.613941,-75.358903
+Bethlehem,4413 Birkland Pl,Easton,PA,18045,40.65766,-75.2858
+Whitehall,1504 Macarthur Rd,Whitehall,PA,18052,40.62845,-75.48551
+Stroudsburg,300 Shoppes Stroud,Stroudsburg,PA,18360,40.98911,-75.23324
+Scranton,959 Viewmont Dr,Dickson City,PA,18519,41.4553,-75.65106
+Wilkes Barre,449 Arena Hub Plz,Wilkes Barre,PA,18702,41.23896,-75.84081
+Quakertown,646 N West End Blvd,Quakertown,PA,18951,40.46087,-75.37182
+Oxford Valley,310 Commerce Blvd,Fairless Hills,PA,19030,40.18847,-74.86542
+Springfield,642 Baltimore Pike,Springfield,PA,19064,39.92008,-75.32778
+Willow Grove,1130 Easton Rd,Willow Grove,PA,19090,40.15733,-75.12466
+NE Philadelphia,9733 Roosevelt Blvd,Philadelphia,PA,19114,40.082357,-75.026677
+South Philadelphia,2300 S Christopher Columbus Bl,Philadelphia,PA,19148,39.91565,-75.13889
+Philidelphia Airport (PHL) Terminal A,8000 Essington Ave,Philadelphia,PA,19153,39.894994,-75.229085
+Downingtown,10 Quarry Rd,Downingtown,PA,19335,40.01888,-75.67585
+King of Prussia,310 Goddard Blvd,King Of Prussia,PA,19406,40.0927,-75.39568
+Collegeville,400 Front St,Collegeville,PA,19426,40.16357,-75.48094
+Montgomeryville,801 Bethlehem Pike,North Wales,PA,19454,40.2376,-75.23856
+Plymouth Meeting,2010 Chemical Rd,Plymouth Meeting,PA,19462,40.10288,-75.29518
+Pottstown,200 Upland Sq Dr,Pottstown,PA,19464,40.26474,-75.65323
+Reading,1701 Crossing Dr,Wyomissing,PA,19610,40.3482,-75.96624
+Christiana,2700 Fashion Center Blvd,Newark,DE,19702,39.672627970576286,-75.6489834934473
+Concord Pike,4807 Concord Pike,Wilmington,DE,19803,39.82647,-75.54269
+Dover,1165 N Dupont Hwy,Dover,DE,19901,39.18922,-75.53799
+Marriott Marquis Washington DC,901 MASSACHUSETTS AVE NW,WASHINGTON,DC,20001,38.903442,-77.02421
+Union Station,50 Massachusetts NE,Washington,DC,20002,38.8968962430954,-77.00654536485672
+Columbia Heights,3100 14th St NW,Washington,DC,20010,38.92903,-77.03415
+Manassas,7665 Sudley Rd,Manassas,VA,20109,38.79072,-77.51333
+Gainesville,13093 Gateway Center Dr,Gainesville,VA,20155,38.7939,-77.60362
+Sterling,45575 Dulles Eastern Plz,Sterling,VA,20166,39.02328,-77.42217
+Leesburg,609 Potomac Station Dr,Leesburg,VA,20176,39.09757,-77.52822
+Reston,1861 Fountain Dr,Reston,VA,20190,38.96173,-77.35572
+Waldorf,11725 Berry Rd,Waldorf,MD,20603,38.62682,-76.91233
+Lexington Park,45235 Worth Ave,California,MD,20619,38.2968,-76.51028
+Woodmore Towne Centre,2300 Petrie Ln,Lanham,MD,20706,38.92193,-76.84587
+Laurel,14160 Baltimore Ave,Laurel,MD,20707,39.08459,-76.86461
+Bowie,15800 Collington Rd,Bowie,MD,20716,38.94518,-76.73065
+College Park,4710 Cherry Hill Rd,College Park,MD,20740,39.01694,-76.92951
+Rockville,1200 Rockville Pike,Rockville,MD,20852,39.06994,-77.13014
+Germantown,20914 Frederick Rd,Germantown,MD,20876,39.2,-77.25166
+Gaithersburg,15750 Shady Grove Rd,Gaithersburg,MD,20877,39.11612,-77.18684
+Wheaton,10901 Georgia Ave,Wheaton,MD,20902,39.03454,-77.04863
+Bel Air,602 Boulton St,Bel Air,MD,21014,39.52858,-76.35952
+Glen Burnie,6722 Ritchie Hwy,Glen Burnie,MD,21061,39.19076,-76.6154
+Columbia,8251 Gateway Overlook Dr,Elkridge,MD,21075,39.18456,-76.79364
+Arundel Mills,7000 Arundel Mills Cir,Hanover,MD,21076,39.15473,-76.72428
+Towson,1717 York Rd,Timonium,MD,21093,39.42801,-76.61869
+LUTHERVILLE OUTLET CENTER,160 W RIDGELY RD,LUTHERVILLE TIMONIUM,MD,21093,39.429581,-76.626196
+Owings Mills,10400 Owings Mills Blvd,Owings Mills,MD,21117,39.41976,-76.77919
+BALTIMORE SALE EVENT,7550 Perryman Ct,Curtis Bay,MD,21226,39.1762,-76.54946
+White Marsh,5200 Campbell Blvd,Nottingham,MD,21236,39.37275,-76.45415
+Baltimore/Washington Airport (BWI) Lower Level USO Hallway,7426 New Ridge Rd,Baltimore,MD,21240,39.17658233642578,-76.67123413085938
+Annapolis,2643 Housley Rd,Annapolis,MD,21401,38.98602,-76.55493
+Frederick,7300 Guilford Dr,Frederick,MD,21704,39.39725,-77.41602
+Hagerstown,18053 Garland Groh Blvd,Hagerstown,MD,21740,39.66082,-77.744
+Salisbury,109 E North Pointe Dr,Salisbury,MD,21804,38.41724,-75.56405
+Fair City Mall,9652 Main St,Fairfax,VA,22031,38.84353,-77.27589
+Fairlakes,13058 Fairlakes Shopping Ctr,Fairfax,VA,22033,38.85716,-77.39622
+Baileys Crossroads,5799 Leesburg Pike,Falls Church,VA,22041,38.8505,-77.13119
+Springfield,6555 Frontier Dr,Springfield,VA,22150,38.77423,-77.16965
+Tysons Corner,8449 Leesburg Pike,Vienna,VA,22182,38.92427,-77.23953
+Potomac Mills,2730 Prince William Pkwy,Woodbridge,VA,22192,38.65217,-77.29523
+Pentagon City,1201 S Hayes St,Arlington,VA,22202,38.86147,-77.05831
+Potomac Yard,3401 Jefferson Davis Hwy,Alexandria,VA,22305,38.83608,-77.04947
+Fredericksburg,1541 Carl D Silver Pkwy,Fredericksburg,VA,22401,38.30296,-77.50473
+BBT050VA02,23866 Rogers Clark Blvd,Ruther Glen,VA,22546,,
+Stafford,1455 Stafford Market Pl,Stafford,VA,22556,38.47147,-77.41201
+Winchester,601 East Jubal Early Dr,Winchester,VA,22601,39.16421,-78.16511
+Harrisonburg,259 Burgess Rd,Harrisonburg,VA,22801,38.43291,-78.85294
+Charlottesville,1615 Emmet St N,Charlottesville,VA,22901,38.05844,-78.49666
+Glen Allen,9901 Brook Rd,Glen Allen,VA,23059,37.66922,-77.46003
+West Broad,11200 W Broad St,Glen Allen,VA,23060,37.65084,-77.60086
+Mechanicsville,7297 Battle Hill Dr,Mechanicsville,VA,23111,37.6077,-77.35643
+Midlothian,4931 Commonwealth Centre Pkwy,Midlothian,VA,23112,37.42042,-77.6294
+Williamsburg,210 Whittakers Trace,Williamsburg,VA,23185,37.25769,-76.64194
+Chesterfield,1560 W Koger Center Blvd,Richmond,VA,23235,37.51277,-77.61277
+Chesapeake,1340 Greenbrier Pkwy,Chesapeake,VA,23320,36.77363,-76.23088
+Chesapeake Square,4107 Portsmouth Blvd,Chesapeake,VA,23321,36.82167,-76.40955
+Princess Anne,3334 Princess Anne Rd,Virginia Beach,VA,23456,36.77376,-76.08708
+Virginia Beach,217 Independence Blvd,Virginia Beach,VA,23462,36.83632,-76.13867
+Newport News,12151 Jefferson Ave,Newport News,VA,23602,37.10817,-76.49869
+Colonial Heights,723 Southpark Blvd,Colonial Heights,VA,23834,37.25021,-77.38666
+Roanoke,4707 Valley View Blvd NW,Roanoke,VA,24012,37.29925,-79.95955
+Christiansburg,105 Shoppers Way,Christiansburg,VA,24073,37.16721,-80.424
+Bristol,16680 Highlands Center Dr,Bristol,VA,24202,36.63741,-82.10708
+BBT049VA01,139 Factory Outlet Dr,Fort Chiswell,VA,24360,,
+Lynchburg,4024 Wards Rd,Lynchburg,VA,24502,37.34923,-79.18898
+Charleston,39 RHL Blvd,Charleston,WV,25309,38.33651,-81.71148
+Martinsburg,276 Retail Commons Pkwy,Martinsburg,WV,25403,39.4398,-77.99285
+Huntington,6 Mall Rd,Barboursville,WV,25504,38.41876,-82.26338
+Wheeling,150 Satterfield Dr,Triadelphia,WV,26059,40.05771,-80.59853
+Morgantown,3294 University Town Centre Dr,Morgantown,WV,26501,39.65089,-80.00518
+Winston-Salem,1980 Griffith Rd,Winston-Salem,NC,27103,36.06472,-80.3084
+Burlington,1465 University Dr,Burlington,NC,27215,36.06551,-79.52172
+Greensboro,1701 S 40 Dr,Greensboro,NC,27407,36.05396,-79.8894
+Cary,237 Crossroads Blvd,Cary,NC,27518,35.76232,-78.73976
+Garner,120 Shenstone Ln,Garner,NC,27529,35.69545,-78.58364
+Knightdale,214 Hinton Oaks Blvd,Knightdale,NC,27545,35.79639,-78.51278
+Raleigh-Durham Airport (RDU) Terminal 2 Gate C3,2600 West Terminal Blvd,Morrisville,NC,27560,35.87455026805401,-78.79025727510452
+Crabtree,4325 Glenwood Ave,Raleigh,NC,27612,35.8377,-78.67622
+RALEIGH OUTLET CENTER,5220 Capital Blvd,Raleigh,NC,27616,35.857075,-78.579842
+Raleigh,6280 Capital Blvd,Raleigh,NC,27616,35.87053835391998,-78.58054138720036
+Brier Creek,7980 Skyland Ridge Pkwy,Raleigh,NC,27617,35.91496,-78.78379
+Durham,5454 New Hope Commons Dr,Durham,NC,27707,35.95351,-78.99887
+Durham Southpoint,7001 Fayetteville Rd,Durham,NC,27713,35.90191,-78.9367
+Greenville,3140 Evans St,Greenville,NC,27834,35.57451,-77.3848
+Wilson,3401 Raleigh Road Pkwy W,Wilson,NC,27896,35.74426,-77.96528
+Kannapolis,6390 Bayfield Pkwy,Concord,NC,28027,35.41438,-80.67905
+Concord Mills,8210 Concord Mills Blvd,Concord,NC,28027,35.36842,-80.71896
+Gastonia,3054 E Franklin Blvd,Gastonia,NC,28056,35.26007,-81.12223
+Matthews,2109 Matthews Township Pkwy,Matthews,NC,28105,35.12731,-80.70466
+Mooresville,633 River Hwy,Mooresville,NC,28117,35.59379,-80.87539
+Pineville,10600 Centrum Pkwy,Pineville,NC,28134,35.08902,-80.87913
+Midtown Charlotte,1055 Metropolitan Ave,Charlotte,NC,28204,35.21287,-80.83485
+Charlotte Douglas Airport (CLT) D/E Connector,5501 R C Josh Birmingham Pkwy,Charlotte,NC,28208,35.229206,-80.945382
+Charlotte-North Lake,10221 Perimeter Pkwy,Charlotte,NC,28216,35.34776,-80.85285
+Charlotte - Rivergate,14125 River Gate Pkwy,Charlotte,NC,28273,35.10407,-80.98365
+Blakeney,9839 Rea Rd,Charlotte,NC,28277,35.03423,-80.80365
+Fayetteville,2034 Skibo Rd,Fayetteville,NC,28314,35.05604,-78.97345
+Aberdeen,11088 N US Highway 15 501,Aberdeen,NC,28315,35.15698,-79.42002
+Wilmington,309 S College Rd,Wilmington,NC,28403,34.23614,-77.87035
+Jacksonville,1116 Western Blvd,Jacksonville,NC,28546,34.78225,-77.39446
+Morehead City,5171 US Highway 70 W,Morehead City,NC,28557,34.73742,-76.80869
+Hickory,1884 Catawba Valley Blvd SE,Hickory,NC,28602,35.70062,-81.30927
+Asheville South,10 McKenna Rd,Arden,NC,28704,35.44689,-82.53691
+Waynesville,45 Plaza Pl,Waynesville,NC,28786,35.46543,-83.01096
+Asheville,83 S Tunnel Rd,Asheville,NC,28805,35.57942,-82.52376
+Lexington,5135 Sunset Blvd,Lexington,SC,29072,34.00532,-81.1962
+Columbiana Mall,370 Harbison Blvd,Columbia,SC,29212,34.07617,-81.15271
+Spring Valley,10136 Two Notch Rd,Columbia,SC,29229,34.11648,-80.87833
+Spartanburg,110 E Blackstock Rd,Spartanburg,SC,29301,34.93523,-81.99251
+North Charleston,7612 Rivers Ave,North Charleston,SC,29406,32.94154,-80.0373
+West Ashley,1987 Sam Rittenberg Blvd,Charleston,SC,29407,32.79482,-80.02631
+Summerville,321 Azalea Square Blvd,Summerville,SC,29483,33.03795,-80.16131
+Florence,2701 David H McLeod Blvd,Florence,SC,29501,34.19102,-79.83294
+Myrtle Beach,1145 Oak Forest Ln,Myrtle Beach,SC,29577,33.70585,-78.91816
+Greenville,1125 Woodruff Rd,Greenville,SC,29607,34.82968,-82.3003
+Anderson,3601 Clemson Blvd,Anderson,SC,29621,34.5516,-82.68059
+Greenville Spartanburg Airport (GSP) Gate A1,2000 Gsp Dr,Greer,SC,29651,34.895446,-82.217228
+Greenville Spartanburg Airport (GSP)  Gate B2,2000 Gsp Dr,Greer,SC,29651,34.895447,-82.217232
+Rock Hill,1775 Chamberside Dr,Rock Hill,SC,29730,34.93884,-80.97712
+Bluffton,1007 Fording Island Rd,Bluffton,SC,29910,32.25851,-80.85019
+Conyers,1540 Dogwood Dr SE,Conyers,GA,30013,33.64818871021271,-83.99568937718868
+Alpharetta,975 N Point Dr,Alpharetta,GA,30022,34.05216,-84.28452
+Cumming,2085 Market Place Blvd,Cumming,GA,30041,34.19297,-84.13022
+Snellville,1679 Scenic Hwy N,Snellville,GA,30078,33.88278,-84.01306
+Smyrna,2460 Cobb Pkwy SE,Smyrna,GA,30080,33.89111,-84.47834
+Northlake,4135 Lavista Rd,Tucker,GA,30084,33.8454,-84.24857
+Gwinnett,1875 Pleasant Hill Rd,Duluth,GA,30096,33.95082,-84.1306
+Acworth,3335 Cobb Pkwy NW,Acworth,GA,30101,34.03367,-84.68354
+Canton,1810 Cumming Hwy,Canton,GA,30115,34.23732,-84.46137
+Douglasville,6875 Douglas Blvd,Douglasville,GA,30135,33.72779,-84.75784
+Hiram,5025 Jimmy Lee Smith Pkwy,Hiram,GA,30141,33.88984,-84.74535
+KENNESAW OUTLET,2500 COBB PLACE LANE NW,KENNESAW,GA,30144,34.013546,-84.571994
+Kennesaw,850 Cobb Place Blvd NW,Kennesaw,GA,30144,34.01139,-84.57063
+McDonough,1861 Jonesboro Rd,McDonough,GA,30253,33.46359,-84.21807
+Southlake,1980 Mount Zion Rd,Morrow,GA,30260,33.56574,-84.32384
+Newnan,312 Newnan Crossing Byp E,Newnan,GA,30265,33.39001,-84.76379
+Peachtree City,2703 Hwy 54,Peachtree City,GA,30269,33.39772,-84.59726
+Edgewood,1210 Caroline St NE,Atlanta,GA,30307,33.75941,-84.34875
+Georgia World Congress Center,285 ANDREW YOUNG INT BLVD NW,ATLANTA,GA,30313,33.759893,-84.397027
+Atlanta Heartsfield-Jackson Airport (ATL) Gate A18,Hartsfield Jackson,Atlanta,GA,30320,33.641319274902344,-84.45014190673828
+Hartsfield-Jackson Atlanta Airport (ATL) Gate D21,6000 N Terminal Pkwy,Atlanta,GA,30320,33.641683,-84.446549
+Hartsfield-Jackson Atlanta Airport (ATL)  Gate E6,6000 N Terminal Pkwy,Atlanta,GA,30320,33.64168167114258,-84.44655127823353
+Hartsfield-Jackson Atlanta Airport (ATL)  Gate E17,6000 N Terminal Pkwy,Atlanta,GA,30320,33.64168167114258,-84.44655127823353
+Atlanta Hartfield Airport (ATL) Gate E31,6000 N Terminal Pkwy,Atlanta,GA,30320,33.637799,-84.429271
+Atlanta Hartfield Airport (ATL)  Gate E27,6000 N Terminal Pkwy,Atlanta,GA,30320,33.637799,-84.429271
+Buckhead,2537 Piedmont Rd NE,Atlanta,GA,30324,33.82387,-84.36349
+Perimeter,1201 Hammond Dr NE,Dunwoody,GA,30346,33.91941,-84.33976
+Gainesville,670 Dawsonville Hwy,Gainesville,GA,30501,34.29716,-83.85338
+ATLANTA SALE EVENT,1605 Broadmoor Blvd NE,Buford,GA,30518,,
+Mall of Georgia,3205 Woodward Crossing Blvd,Buford,GA,30519,34.07058,-83.98374
+Athens,1791 Oconee Connector,Athens,GA,30606,33.91592,-83.4524
+Augusta,3667 Walton Way Ext,Augusta,GA,30909,33.4937,-82.07748
+Warner Robins,3040 Watson Blvd,Warner Robins,GA,31093,32.61926,-83.69276
+Macon,4676 Presidential Pkwy,Macon,GA,31206,32.81723,-83.71259
+Savannah,7929 Abercorn St,Savannah,GA,31406,32.00327,-81.12539
+Savannah/Hilton Head Airport (SAV) Gate 4/6,400 Airways Ave,Savannah,GA,31408,32.13816337287426,-81.21709853410721
+Valdosta,1705 Norman Dr,Valdosta,GA,31601,30.84011,-83.31825
+Columbus,6499 Whittlesey Blvd,Columbus,GA,31909,32.549612,-84.940043
+Daytona Beach,1900 W International Speedway,Daytona Beach,FL,32114,29.19187,-81.07414
+Lady Lake,552 N US Hwy 27,Lady Lake,FL,32159,28.93136,-81.93575
+Jacksonville North,13141 City Station Dr,Jacksonville,FL,32218,30.4756,-81.64281
+Jacksonville Airport (JAX) Gate A4,2400 Yankee Clipper Dr,Jacksonville,FL,32218,30.49146,-81.683108
+JAX Pre Security near Starbucks,2400 Yankee Clipper Dr,Jacksonville,FL,32218,30.491461,-81.683105
+Jacksonville,9355 Atlantic Blvd,Jacksonville,FL,32225,30.31955,-81.55629
+Orange Park,8151 Blanding Blvd,Jacksonville,FL,32244,30.19856,-81.73815
+Saint Johns,4906 Town Center Pkwy,Jacksonville,FL,32246,30.254753,-81.53472
+The Avenues,9930 Southside Blvd,Jacksonville,FL,32256,30.19026,-81.55414
+Tallahassee,1400 Apalachee Pkwy,Tallahassee,FL,32301,30.43749,-84.25941
+Panama City,1000 E 23rd St,Panama City,FL,32405,30.18895,-85.64419
+Pensacola,5480 N 9th Ave,Pensacola,FL,32504,30.47726,-87.2067
+Destin,34940 Emerald Coast Pkwy,Destin,FL,32541,30.38689,-86.42394
+Gainesville,3750 SW Archer Rd,Gainesville,FL,32608,29.62268,-82.38094
+Altamonte Springs,597 W State Road 436,Altamonte Springs,FL,32714,28.66295,-81.40587
+Sanford,1501 Rinehart Rd,Sanford,FL,32771,28.80144,-81.3296
+East Colonial,4601 E Colonial Dr,Orlando,FL,32803,28.55481,-81.32876
+Florida Mall,8350 S Orange Blossom Trl,Orlando,FL,32809,28.44434,-81.40384
+Hilton Orlando Bonnet Creek Resort,14100 BONNET CREEK RESORT LN,ORLANDO,FL,32821,28.355641,-81.534671
+Orlando Airport (MCO) Gate B70-79,Orlando Intl Airport,Orlando,FL,32827,28.43303108215332,-81.3112564086914
+Orlando Airport (MCO) Gate A102,1 Airport Blvd,Orlando,FL,32827,28.43303108215332,-81.3112564086914
+Orlando Airport (MCO) Gate B1,1 Airport Blvd,Orlando,FL,32827,28.43303108215332,-81.3112564086914
+Orlando Airport (MCO) Gate A120,1 Airport Blvd,Orlando,FL,32827,28.43303108215332,-81.3112564086914
+Orlando Airport (MCO) Gate B40,One Airport Blvd,Orlando,FL,32827,28.43303108215332,-81.3112564086914
+Orlando Airport (MCO) Gate A23,One Airport Blvd,Orlando,FL,32827,28.43303108215332,-81.3112564086914
+Orlando Airport (MCO) Gate A1,One Airport Blvd,Orlando,FL,32827,28.43303108215332,-81.3112564086914
+Waterford Lakes,845 N Alafaya Trl,Orlando,FL,32828,28.55701,-81.20488
+Millenia Mall,4155 Millenia Blvd,Orlando,FL,32839,28.49121,-81.43123
+Melbourne,1900 Evans Rd,Melbourne,FL,32904,28.07992,-80.65497
+Vero Beach,6156 20th St,Vero Beach,FL,32966,27.64123,-80.45379
+Hialeah,4001 W 20th Ave,Hialeah,FL,33012,25.85843,-80.32164
+BBF005PPFL,10840 Pines Blvd,Pembroke Pines,FL,33025,,
+Pembroke Pines,11450 Pines Blvd,Pembroke Pines,FL,33026,26.00642,-80.30085
+Florida City,33590 S Dixie Hwy,Florida City,FL,33034,25.45552,-80.47652
+Margate,3300 NW 62nd Ave,Margate,FL,33063,26.2705,-80.20534
+Coral Springs,650 N University Dr,Coral Springs,FL,33071,26.23941,-80.25581
+Miami Airport (MIA) Gate E8,2100 NW 42nd Ave,Miami,FL,33126,25.808096,-80.269845
+Miami Airport (MIA) Gate D15,2100 NW 42nd Ave,Miami,FL,33126,25.808096,-80.269845
+Miami Airport (MIA) Gate E31,2100 NW 42nd Ave,Miami,FL,33126,25.808096,-80.269845
+Miami Airport (MIA) Gate D34,2100 NW 42nd Ave,Miami,FL,33126,25.808096,-80.269845
+Miami Airport (MIA) Gate D55,2100 NW 42nd Ave,Miami,FL,33126,25.808096,-80.269845
+Miami Airport (MIA) Gate D37,2100 NW 42nd Ave,Miami,FL,33126,25.808096,-80.269845
+Miami Airport (MIA) Gate G15,2100 NW 42nd Ave,Miami,FL,33126,25.808096,-80.269845
+Miami Airport (MIA),2100 NW 42nd Ave,Miami,FL,33126,25.808096,-80.269845
+Miami Airport (MIA) Gate J11,2100 NW 42nd Ave,Miami,FL,33126,25.808096,-80.269845
+Miami Airport (MIA) Gate D29,2100 NW 42nd Ave,Miami,FL,33126,25.808096,-80.269845
+Miami Airport (MIA),2100 NW 42nd Ave,Miami,FL,33126,25.808096,-80.269845
+Miami Beach,1131 5th St,Miami Beach,FL,33139,25.77478,-80.14039
+Dadeland,8450 S Dixie Hwy,Miami,FL,33143,25.69294,-80.30615
+Tropicaire,7751 Bird Rd,Miami,FL,33155,25.73414,-80.31984
+Pinecrest,11905 S Dixie Hwy,Miami,FL,33156,25.66003,-80.32569
+Doral,10760 NW 17th St,Miami,FL,33172,25.78935,-80.37035
+Aventura,21035 Biscayne Blvd,Aventura,FL,33180,25.97027,-80.14213
+West Kendall,12495 SW 88th St,Miami,FL,33186,25.68733,-80.39545
+Fort Lauderdale,1901 N Federal Hwy,Fort Lauderdale,FL,33305,26.16284,-80.11701
+Sawgrass,12301 W Sunrise Blvd,Plantation,FL,33323,26.14718,-80.31264
+Davie,2200 S University Dr,Davie,FL,33324,26.0924,-80.24763
+BBF004YFFL,959 E Commercial Blvd,Oakland Park,FL,33334,,
+West Palm Beach,1880 Palm Beach Lakes Blvd,West Palm Beach,FL,33401,26.71919,-80.08777
+Palm Beach Airport (PBI) Gate C4,Palm Beach Intl Airport,West Palm Beach,FL,33406,26.690860748291016,-80.08775329589844
+Palm Beach Airport (PBI) Gate B1,Palm Beach Intl Airport,West Palm Beach,FL,33406,26.690860748291016,-80.08775329589844
+North Palm Beach,11230 Legacy Ave,Palm Beach Gardens,FL,33410,26.84035,-80.09127
+Wellington,1040 S State Road 7,Wellington,FL,33414,26.6633,-80.20091
+Boynton Beach,550 N Congress Ave,Boynton Beach,FL,33426,26.53247,-80.08804
+Boca Raton,20540 State Road 7,Boca Raton,FL,33498,26.37105,-80.20078
+Brandon,116 Grand Regency Blvd,Brandon,FL,33510,27.94221,-82.32595
+Wesley Chapel,5947 Wesley Grove Blvd,Wesley Chapel,FL,33544,28.244,-82.35268
+South Tampa,1725 N Dale Mabry Hwy,Tampa,FL,33607,27.958,-82.50363
+Citrus Park,12675 Citrus Plaza Dr,Tampa,FL,33625,28.0634,-82.57664
+New Tampa,18071 Highwoods Preserve Pkwy,Tampa,FL,33647,28.13176,-82.36709
+St. Petersburg,6600 22nd Avenue N,Saint Petersburg,FL,33710,27.79043,-82.73077
+Clearwater,21415 US Highway 19 N,Clearwater,FL,33765,27.96735,-82.72694
+Lakeland,4215 US Highway 98 N,Lakeland,FL,33809,28.09513,-81.97231
+Davenport,6300 Grandview Pkwy,Davenport,FL,33837,28.23676,-81.64171
+ORLANDO SALE EVENT,8906 N Road 33,Polk City,FL,33868,28.1617,-81.8582
+Fort Myers,5019 S Cleveland Ave,Fort Myers,FL,33907,26.58479,-81.8697
+Gulf Coast,10033 Gulf Center Dr,Fort Myers,FL,33913,26.48611,-81.79098
+Coconut Point,8000 Mediterranean Dr,Estero,FL,33928,26.40863,-81.80989
+Port Charlotte,18700 Veterans Blvd,Port Charlotte,FL,33954,27.01489,-82.14514
+Naples,6325 Naples Blvd,Naples,FL,34109,26.22155,-81.77404
+Bradenton,4210 14th St W,Bradenton,FL,34205,27.46355,-82.57803
+Sarasota,4020 S Tamiami Trl,Sarasota,FL,34231,27.29576,-82.53253
+University Town Center,135 N Cattlemen Rd,Sarasota,FL,34243,27.38388,-82.45812
+Ocala,2499 SW 27th Ave,Ocala,FL,34471,29.16386,-82.16827
+Spring Hill,1389 Wendy Ct,Spring Hill,FL,34607,28.45491,-82.63269
+Port Richey,9409 US Highway 19,Port Richey,FL,34668,28.29321,-82.7121
+Kissimmee,1620 W Osceola Pkwy,Kissimmee,FL,34741,28.34072,-81.42125
+OCOEE OUTLET,9537 W Colonial Dr,Ocoee,FL,34761,28.55325,-81.51799
+Winter Garden,3367 Daniels Rd,Winter Garden,FL,34787,28.5217,-81.5826
+Jensen Beach,2555 NW Federal Hwy,Stuart,FL,34994,27.23706,-80.2673
+BBA232BHM3,5900 Messer Airport Hwy,Birmingham,AL,35212,,
+Trussville,5072 Pinnacle Sq,Birmingham,AL,35235,33.60413,-86.64296
+Birmingham,4610 Highway 280,Birmingham,AL,35242,33.42707,-86.70997
+Hoover,3780 Riverchase Vlg,Hoover,AL,35244,33.37807,-86.79989
+Tuscaloosa,1800 McFarland Blvd E,Tuscaloosa,AL,35404,33.19559,-87.52772
+Huntsville,5850B University Dr NW,Huntsville,AL,35806,34.74186,-86.66409
+Prattville,2431 Cobbs Ford Rd,Prattville,AL,36066,32.46076,-86.39825
+Montgomery,1580 Eastern Blvd,Montgomery,AL,36117,32.35612,-86.21971
+Oxford,1100 Oxford Exchange Blvd,Oxford,AL,36203,33.60941,-85.78066
+Dothan,4863 Montgomery Hwy,Dothan,AL,36303,31.26939,-85.44784
+Spanish Fort,10200 Eastern Shore Blvd,Spanish Fort,AL,36527,30.66432,-87.8484
+Mobile,1310 Tingle Cir E,Mobile,AL,36606,30.65071,-88.11466
+Auburn,2147 Tiger Town Pkwy,Opelika,AL,36801,32.61796,-85.40544
+Brentwood,1600 Galleria Blvd,Brentwood,TN,37027,35.97092,-86.80781
+Clarksville,2805 Wilma Rudolph Blvd,Clarksville,TN,37040,36.58577,-87.29048
+Rivergate,2311 Gallatin Pike N,Madison,TN,37115,36.30688,-86.68154
+Mt Juliet (Providence Marketplace),401 S Mt Juliet Rd,Mount Juliet,TN,37122,36.16771,-86.51109
+Murfreesboro,2615 Medical Center Pkwy,Murfreesboro,TN,37129,35.8605,-86.44802
+Nashville West,6810 Charlotte Pike,Nashville,TN,37209,36.13606,-86.89103
+Nashville Airport (BNA) Concurse A/B Connector,Nashville Airport,Nashville,TN,37214,36.13441848754883,-86.66816711425781
+Nashville Airport (BNA) Gate A1 near vending alcove,1 Terminal Dr,Nashville,TN,37214,36.129013,-86.67042
+Gaylord Opryland,2800 Opryland Ddr,Nashville,TN,37214,36.2135009765625,-86.6974487304688
+Hixson,5591 Hwy 153,Hixson,TN,37343,35.14734,-85.25169
+Chattanooga,2290 Gunbarrel Rd,Chattanooga,TN,37421,35.03742,-85.14973
+Johnson City,3222 Peoples St,Johnson City,TN,37604,36.34795,-82.40076
+Kingsport,2716 E Stone Dr,Kingsport,TN,37660,36.55183,-82.49068
+Knoxville,8925 Towne and Country Cir,Knoxville,TN,37923,35.91851,-84.08485
+Turkey Creek,11491 Parkside Dr,Farragut,TN,37934,35.89989,-84.16657
+Memphis Airport (MEM) Gate B1,Memphis Intl Airport,Memphis,TN,38116,35.04996109008789,-89.98223114013672
+Poplar Ave,5821 Poplar Ave,Memphis,TN,38119,35.10072,-89.86793
+Winchester Rd,7771 Winchester Rd,Memphis,TN,38125,35.04687,-89.80442
+Memphis,2755 Germantown Pkwy,Memphis,TN,38133,35.20068,-89.79318
+Jackson,1170 Vann Dr,Jackson,TN,38305,35.66354,-88.85775
+Southaven,304 Market Plz,Southaven,MS,38671,34.96525,-89.9953
+Tupelo,3040 N Gloster St,Tupelo,MS,38804,34.29739,-88.70708
+Madison,175 Grandview Blvd,Madison,MS,39110,32.46526,-90.13675
+Flowood,194 Promenade Blvd,Flowood,MS,39232,32.3439,-90.05981
+Meridian,133 S Frontage Rd,Meridian,MS,39301,32.36481,-88.67377
+Hattiesburg,4600 Hardy St,Hattiesburg,MS,39402,31.32232,-89.35806
+Gulfport,10545 Hwy 49,Gulfport,MS,39503,30.44121,-89.09899
+Diberville,3889 Promenade Pkwy,Diberville,MS,39540,30.45349,-88.90077
+St. Matthews,5085 Shelbyville Rd,Louisville,KY,40207,38.25226,-85.62086
+Outer Loop,4251 Outer Loop,Louisville,KY,40219,38.13998,-85.68096
+Lexington,3220 Nicholasville Rd,Lexington,KY,40503,37.99317,-84.52059
+Hamburg Pavilion,1979 Pavilion Wy,Lexington,KY,40509,38.02264,-84.41957
+Florence,100 Meijer Dr,Florence,KY,41042,39.01372,-84.63589
+Paducah,5101 Hinckleville Rd,Paducah,KY,42001,37.07924,-88.68668
+Bowling Green,1875 Campbell Ln,Bowling Green,KY,42104,36.95353,-86.42777
+Owensboro,5101 Frederica St,Owensboro,KY,42301,37.71835,-87.12194
+Elizabethtown,2050 N Dixie Hwy,Elizabethtown,KY,42701,37.74028,-85.89142
+Tuttle Crossing,5800 Britton Pkwy,Dublin,OH,43016,40.07253,-83.13644
+Heath,701 Hebron Rd,Heath,OH,43056,40.03428,-82.43614
+Reynoldsburg,2782 Taylor Road Ext,Reynoldsburg,OH,43068,39.93575,-82.78506
+Grove City,1632 Stringtown Rd,Grove City,OH,43123,39.88052,-83.03875
+Lancaster,1645 River Valley Cir N,Lancaster,OH,43130,39.73473,-82.62851
+Morse Rd,3840 Morse Rd,Columbus,OH,43219,40.06026,-82.9175
+Port Columbus Airport (CMH) Gate B22,Columbus Airport,Columbus,OH,43219,41.411828,-81.834868
+Port Columbus Airport (CMH) Gate A3,4600 International Gateway,Columbus,OH,43219,39.997501,-82.888962
+Port Columbus Airport (CMH) Gate C52,4600 International Gateway,Columbus,OH,43219,39.997501,-82.888962
+Polaris,1375 Polaris Pkwy,Columbus,OH,43240,40.13965,-82.98246
+Spring Meadows,1405 Spring Meadows Dr,Holland,OH,43528,41.61556,-83.69676
+Toledo,4505 Monroe St,Toledo,OH,43613,41.6869,-83.62053
+Avon,1600 Center Rd,Avon,OH,44011,41.46584,-82.02036
+Elyria,6650 Midway Blvd,Elyria,OH,44035,41.39722,-82.11292
+Macedonia,470 E Aurora Rd,Macedonia,OH,44056,41.31352,-81.52166
+Mentor,7830 Plaza Blvd,Mentor,OH,44060,41.65807,-81.36713
+North Olmsted,5140 Great Northern Plz S,North Olmsted,OH,44070,41.4151,-81.91203
+Get Go Lakewood,14013 DETROIT AVE,LAKEWOOD,OH,44107,41.485119,-81.790143
+Mayfield Road,1417 Golden Gate Blvd,Mayfield Heights,OH,44124,41.52244,-81.4473
+Parma,7400 Brookpark Rd,Cleveland,OH,44129,41.42039,-81.73562
+Cleveland-Hopkins Airport (CLE) Gate C14,Cleveland Airport,Cleveland,OH,44135,41.411678314208984,-81.83473205566406
+Cleveland-Hopkins Airport (CLE) Gate A8,5300 Riverside Dr,Cleveland,OH,44135,41.406619,-81.851202
+Strongsville,16630 Royalton Rd,Strongsville,OH,44136,41.31484,-81.81492
+Chapel Hill,445 Howe Ave,Cuyahoga Falls,OH,44221,41.1208,-81.47833
+CLEVELAND SALE EVENT,9780 Mopar Dr,Streetsboro,OH,44241,,
+Akron,96 Rothrock Rd,Akron,OH,44321,41.13275,-81.65008
+Niles,5815 Youngstown Warren Rd,Niles,OH,44446,41.20949,-80.74636
+Youngstown,561 Boardman Poland Rd,Boardman,OH,44512,41.02225,-80.64296
+Wooster,3906 Burbank Rd,Wooster,OH,44691,40.84667,-81.94612
+North Canton,6595 Strip Ave NW,North Canton,OH,44720,40.87663,-81.43516
+Sandusky,4210 Milan Rd,Sandusky,OH,44870,41.41798,-82.6729
+Mansfield,2175 Walker Lake Rd,Mansfield,OH,44903,40.78604,-82.59276
+Fairfield Township,3435 Princeton Rd,Hamilton,OH,45011,39.38649,-84.49984
+Western Hills,5555 Glenway Ave,Cincinnati,OH,45238,39.13108,-84.61064
+Eastgate,650 Eastgate South Dr,Cincinnati,OH,45245,39.09835,-84.27782
+Tri-County,865 E Kemper Rd,Springdale,OH,45246,39.28473,-84.45564
+Fields Ertel,9871 Waterstone Blvd,Cincinnati,OH,45249,39.29409,-84.30628
+Colerain,9845 Colerain Ave,Cincinnati,OH,45251,39.25053,-84.59867
+Beavercreek,2907 Centre Dr,Fairborn,OH,45324,39.77402,-84.05001
+Dayton Mall,131 Mall Woods Dr,Dayton,OH,45449,39.64109,-84.22941
+Springfield,1709 N Bechtle Ave,Springfield,OH,45504,39.9473,-83.83488
+Findlay,1800 Tiffin Ave,Findlay,OH,45840,41.05396,-83.61554
+West Carmel,10025 N Michigan Rd,Carmel,IN,46032,39.93387,-86.22999
+Westfield,14610 N Meridian St,Carmel,IN,46032,40.00067,-86.12923
+Noblesville,17200 Mercantile Blvd,Noblesville,IN,46060,40.03887,-85.99151
+Avon,10346 E US Highway 36,Avon,IN,46123,39.76621,-86.34029
+Greenwood,562 Fry Rd,Greenwood,IN,46142,39.62961,-86.11918
+Washington Square,9977 E Washington St,Indianapolis,IN,46229,39.77288,-85.99211
+Indianapolis Airport (IND) Gate B5,2500 S High School Rd,Indianapolis,IN,46241,39.72662353515625,-86.26722717285156
+Indianapolis Airport (IND) Gate A6,7800 Col H Weir Cook Memorial,Indianapolis,IN,46241,39.72286605834961,-86.27157592773438
+Castleton,5820 E 82nd St,Indianapolis,IN,46250,39.906,-86.06923
+Brickyard,4625 Lafayette Rd,Indianapolis,IN,46254,39.84005,-86.24613
+Highland,10243 Indianapolis Blvd,Highland,IN,46322,41.52795,-87.46847
+Valparaiso,91 Silhavy Rd,Valparaiso,IN,46383,41.4682,-87.02455
+Merrillville,2490 E 79th Ave,Merrillville,IN,46410,41.47307,-87.30626
+South Bend,6502 Grape Rd,Mishawaka,IN,46545,41.71904,-86.18495
+Apple Glen Crossing,1770 Apple Glen Blvd,Fort Wayne,IN,46804,41.06886,-85.19971
+Fort Wayne,737 Northcrest Shopping Ctr,Fort Wayne,IN,46805,41.12062,-85.13005
+Kokomo,1403 S Reed Rd,Kokomo,IN,46902,40.47029,-86.11004
+Clarksville,1025 Veterans Pkwy,Clarksville,IN,47129,38.327,-85.76627
+Columbus,1343 North National Road,Columbus,IN,47201,39.21355,-85.87981
+Muncie,3301 N Marleon Dr,Muncie,IN,47304,40.21978,-85.43791
+Richmond,3720 National Road E,Richmond,IN,47374,39.83308,-84.8495
+Bloomington,2721 E 3rd St,Bloomington,IN,47401,39.16558,-86.49703
+Evansville,6300 E Lloyd Expressway,Evansville,IN,47715,37.97861,-87.47533
+Terre Haute,3676 S US Highway 41,Terre Haute,IN,47802,39.42196,-87.4135
+Lafayette,2323 Sagamore Pkwy S,Lafayette,IN,47905,40.39467,-86.8534
+Southfield,28400 Telegraph Rd,Southfield,MI,48034,42.49616,-83.28276
+Chesterfield,50400 Waterside Dr,Chesterfield,MI,48051,42.66783,-82.82831
+Port Huron,4611 24th Ave,Fort Gratiot,MI,48059,43.0429,-82.45849
+Gratiot,30701 Gratiot Ave,Roseville,MI,48066,42.52249,-82.92285
+Madison Heights/Troy,32320 John R Rd,Madison Heights,MI,48071,42.52984,-83.10492
+Allen Park,3349 Fairlane Dr,Allen Park,MI,48101,42.28017,-83.20332
+Ann Arbor,3100 Lohr Rd,Ann Arbor,MI,48108,42.23991,-83.76289
+Brighton,8487 W Grand River Ave,Brighton,MI,48116,42.54364,-83.78341
+Dearborn,16221 Ford Rd,Dearborn,MI,48126,42.32831,-83.20281
+BBM028BTMI,17625 Newburgh Rd,Livonia,MI,48152,,
+Southland Center,23000 Eureka Rd,Taylor,MI,48180,42.19914,-83.25429
+Westland,35100 Central City Pkwy,Westland,MI,48185,42.34466,-83.38669
+Detroit Airport (DTW) Gate C2,1 Detroit Metro Airport,Detroit,MI,48242,42.241477,-83.337969
+Bloomfield Hills,2169 S Telegraph Rd,Bloomfield,MI,48302,42.608,-83.29398
+Rochester Hills,2651 S Rochester Rd,Rochester Hills,MI,48307,42.64136,-83.12926
+Utica,45520 Utica Park Blvd,Utica,MI,48315,42.63107,-83.00632
+Auburn Hills,300 Brown Rd,Auburn Hills,MI,48326,42.70664,-83.2993
+Farmington Hills,30830 Orchard Lake Rd,Farmington Hills,MI,48334,42.52476,-83.35844
+Novi,21051 Haggerty Rd,Novi,MI,48375,42.44123,-83.4376
+Flint,G3660 Miller Rd,Flint,MI,48507,42.9851,-83.75193
+Saginaw,4460 Bay Rd,Saginaw,MI,48603,43.47216,-83.97259
+East Lansing,2020 W Grand River Rd,Okemos,MI,48864,42.72333,-84.42345
+Lansing,5216 W Saginaw Hwy,Lansing,MI,48917,42.74357,-84.62346
+Kalamazoo,6900 S Westnedge Ave,Portage,MI,49002,42.21672,-85.59033
+Battle Creek,12765 Harper Village Dr,Battle Creek,MI,49014,42.265,-85.17779
+Benton Harbor,1515 Orchard Xing,Benton Harbor,MI,49022,42.07678,-86.42167
+Jackson,1014 Jackson Xing,Jackson,MI,49202,42.26814,-84.42559
+Rivertown Crossing,4830 Wilson Ave SW,Grandville,MI,49418,42.8769,-85.76119
+Holland,3549 W Shore Dr,Holland,MI,49424,42.83286,-86.09457
+Muskegon,5425 Harvey St,Muskegon,MI,49444,43.15311,-86.20749
+Grand Rapids,5500 44th St SE,Grand Rapids,MI,49512,42.883604,-85.625874
+Grand Rapids,5500 44th St SE,Grand Rapids,MI,49512,42.883604,-85.625874
+Walker,3410 Alpine Ave NW,Grand Rapids,MI,49544,43.02517,-85.68812
+Grand Rapids,2650 E Belt Line SE,Grand Rapids,MI,49546,42.91492,-85.58176
+Traverse City,2577 N US Highway 31 S,Traverse City,MI,49684,44.72355,-85.64765
+Marquette,3725 US 41 W,Marquette,MI,49855,46.5477,-87.47325
+BBT047FJIA,3231 Adventureland Dr,Altoona,IA,50009,,
+Ames,1220 S Duff Ave,Ames,IA,50010,42.01142,-93.60822
+Ankeny,1955 SE Delaware Ave,Ankeny,IA,50021,41.71064,-93.578
+West Des Moines,4100 University Ave,West Des Moines,IA,50266,41.59794,-93.7606
+Jordan Creek,6825 Mills Civic Pkwy,West Des Moines,IA,50266,41.56299,-93.8015
+BBM025BTIA,1551 Valley West Dr,West Des Moines,IA,50266,,
+Mason City,440 Indian Head Dr,Mason City,IA,50401,43.14684,-93.26818
+Waterloo,2541 Crossroads Blvd,Waterloo,IA,50702,42.45836,-92.32485
+Sioux City,4730 Sergeant Rd,Sioux City,IA,51106,42.44554,-96.34552
+Dubuque,801 Wacker Dr,Dubuque,IA,52002,42.49274,-90.72102
+Iowa City,1431 Coral Ridge Ave,Coralville,IA,52241,41.69136,-91.59803
+Cedar Rapids,4650 1st Ave NE,Cedar Rapids,IA,52402,42.0259,-91.62338
+Davenport,5153 Elmore Ave,Davenport,IA,52807,41.57141,-90.52588
+BBM027BTWI,15875 W Bluemound Rd,Brookfield,WI,53005,,
+Delafield,3270 Golf Rd,Delafield,WI,53018,43.05131,-88.36495
+Kohler,3600 County Trunk Hwy A,Kohler,WI,53044,43.71278,-87.76242
+Brookfield,19555 W Bluemound Rd,Brookfield,WI,53045,43.03504,-88.15416
+Menomonee Falls,N94 W16855 Falls Pkwy,Menomonee Falls,WI,53051,43.18902,-88.11911
+Kenosha,11840 71st St,Kenosha,WI,53142,42.57185,-87.95151
+Lake Geneva,700 N Edwards Blvd,Lake Geneva,WI,53147,42.59922,-88.41592
+General Mitchell Milwakee Airport (MKE) Gate D34,5300 S Howell Ave Concourse C,Milwaukee,WI,53207,42.98387145996094,-87.8967514038086
+Fox Point,8755 N Port Washington Rd,Fox Point,WI,53217,43.17534,-87.91459
+Southridge,4610 S 76th St,Greenfield,WI,53220,42.9611,-88.00699
+Mayfair,2401 N Mayfair Rd,Wauwatosa,WI,53226,43.06319,-88.04846
+Racine,2710 S Green Bay Rd,Racine,WI,53406,42.70059,-87.85549
+Janesville,2850 Deerfield Dr,Janesville,WI,53546,42.71618,-88.97838
+East Madison,2452 E Springs Dr,Madison,WI,53704,43.12928,-89.29877
+Dane County Regional-Trauax Field Airport (MSN) Between Gates 6 and 7,4000 International Ln,Madison,WI,53704,43.142082,-89.337745
+West Madison,7357 W Towne Way,Madison,WI,53719,43.05555,-89.51111
+Green Bay,825 Pilgrim Way,Green Bay,WI,54304,44.48146,-88.06994
+Wausau,3800 Rib Mountain Dr,Wausau,WI,54401,44.92271,-89.65555
+Stevens Point,1145 Commons Cir,Plover,WI,54467,44.49429,-89.51675
+La Crosse,9420 State Road 16,Onalaska,WI,54650,43.8761,-91.19136
+Eau Claire,4090 Commonwealth Ave,Eau Claire,WI,54701,44.77358,-91.43212
+Oshkosh,1550 S Koeller St,Oshkosh,WI,54902,44.00397,-88.57998
+Appleton,4240 W Wisconsin Ave,Appleton,WI,54913,44.27521,-88.47067
+Appleton East,2411 S Kensington Dr,Appleton,WI,54915,44.24076,-88.36201
+Maplewood,1795 County Rd D E,Maplewood,MN,55109,45.03639,-93.02609
+Minneapolis-St. Paul Airport (MSP) Terminal 1 F Connector,Mpls St Paul Intl Airport,Saint Paul,MN,55111,44.88623046875,-93.19202423095703
+Minneapolis-St. Paul Airport (MSP) Terminal 1 Gate C15,4300 Glumack Dr,Saint Paul,MN,55111,44.880544,-93.205676
+Roseville,1643 County Road B2,Roseville,MN,55113,45.01643,-93.16787
+Eagan,1235 Town Centre Dr,Eagan,MN,55123,44.83303,-93.15589
+Apple Valley,15300 Cedar Ave,Apple Valley,MN,55124,44.72874,-93.21401
+Oakdale,8301 3rd St N,Oakdale,MN,55128,44.9496,-92.93713
+Minnetonka,13513 Ridgedale Dr,Hopkins,MN,55305,44.97001,-93.44936
+Burnsville,14141 Aldrich Ave S,Burnsville,MN,55337,44.74802,-93.28584
+EDEN PRAIRIE OUTLET,14675 MARTIN DR,EDEN PRAIRIE,MN,55344,44.86274,-93.4633
+Eden Prairie,11600 Leona Rd,Eden Prairie,MN,55344,44.86091,-93.42473
+Hutchinson,1350 Hwy 15 S,Hutchinson,MN,55350,44.8694,-94.3783
+Maple Grove,12905 Elm Creek Blvd N,Maple Grove,MN,55369,45.09408,-93.44484
+Shakopee,8100 Old Carriage Ct,Shakopee,MN,55379,44.77825,-93.41347
+V1BBR00001,30 S 7th St,Minneapolis,MN,55402,,
+Minneapolis Convention Center,1301 Second Ave S,Minneapolis,MN,55403,44.970306396484375,-93.2733383178711
+BBA233MSP2,7150 Humphrey Drive,Minneapolis,MN,55420,,
+Richfield,1000 West 78th St,Richfield,MN,55423,44.86321,-93.29274
+Best Buy HQ Kiosk,7601 Penn Ave S,Richfield,MN,55423,44.86422,-93.30566
+Northtown,300 Northtown Dr NE,Blaine,MN,55434,45.12607,-93.26186
+BLOOMINGTON SALE EVENT,6205 W 111TH ST,BLOOMINGTON,MN,55438,,
+Coon Rapids,12633 Riverdale Blvd NW,Coon Rapids,MN,55448,45.20112,-93.34819
+Minneapolis-St. Paul Airport (MSP) Terminal 1 Gate E1,7150 Humphrey Dr,Minneapolis,MN,55450,44.873627722263336,-93.2277924567461
+Minneapolis-St. Paul Airport (MSP) Terminal 1 Gate C1,7150 Humphrey Dr,Minneapolis,MN,55450,44.873627722263336,-93.2277924567461
+Minneapolis-St. Paul Airport (MSP)  Terminal 2 Gate H6,7150 Humphrey Dr,Minneapolis,MN,55450,44.873627722263336,-93.2277924567461
+Minneapolis-St. Paul Airport (MSP) Terminal 2 Gate H5,7150 Humphrey Dr,Minneapolis,MN,55450,44.873627722263336,-93.2277924567461
+Duluth,5105 Burning Tree Rd,Duluth,MN,55811,46.80857,-92.16994
+Rochester,4050 Hwy 52 N,Rochester,MN,55901,44.06474,-92.49791
+Mankato,1895 Adams St,Mankato,MN,56001,44.16944,-93.94998
+St Cloud,4130 W Division St,Saint Cloud,MN,56301,45.55235,-94.21073
+Baxter,14555 Edgewood Dr,Baxter,MN,56425,46.36301,-94.2462
+BBUS0004 Sanford Detroit Lakes Clinic,1245 Washington Ave,Detroit Lakes,MN,56501,,
+Sioux Falls,2101 W 41st St,Sioux Falls,SD,57105,43.5133,-96.75555
+BBUS0003 Sanford Health Watertown Clinic,901 4th St NW,Watertown,SD,57201,,
+Rapid City,2320 N Haines Ave,Rapid City,SD,57701,44.10823,-103.22044
+Fargo,3902 13th Ave S,Fargo,ND,58103,46.8591,-96.84652
+Grand Forks,3751 32nd Ave S,Grand Forks,ND,58201,47.88874,-97.08179
+Bismarck,1207 W Century Ave,Bismarck,ND,58503,46.83114,-100.81075
+Minot,1018 24th Ave SW,Minot,ND,58701,48.20795,-101.30815
+Billings,2450 King Ave W,Billings,MT,59102,45.75412,-108.57836
+Missoula,2640 N Reserve St,Missoula,MT,59808,46.88926,-114.03659
+Kalispell,2407 Highway 93 N,Kalispell,MT,59901,48.23757,-114.32637
+Arlington Heights,615 E Palatine Rd,Arlington Heights,IL,60004,42.10752,-87.97503
+Crystal Lake,5880 Northwest Hwy,Crystal Lake,IL,60014,42.22797,-88.31484
+Hilton Chicago O'Hare (ORD),9300 W Bryn Mawr Ave,Rosemont,IL,60018,41.981339,-87.858749
+Gurnee,6525 Grand Ave,Gurnee,IL,60031,42.3814,-87.96576
+Illinois Tollway Lake Forest Oasis,13783 West Oasis Service Rd,Lake Forest,IL,60045,42.254409044981,-87.90300607681274
+Kildeer,20771 N Rand Rd,Kildeer,IL,60047,42.1653,-88.05774
+Vernon Hills,701 N Milwaukee Ave,Vernon Hills,IL,60061,42.23692,-87.94295
+Northbrook,1072 Willow Rd,Northbrook,IL,60062,42.1068,-87.80539
+Skokie,5425 Touhy Ave,Skokie,IL,60077,42.01048,-87.76463
+Algonquin,1561 S Randall Rd,Algonquin,IL,60102,42.15216,-88.33366
+Bloomingdale,350 W Army Trail Rd,Bloomingdale,IL,60108,41.93659,-88.10993
+Dekalb,2074 Sycamore Rd,Dekalb,IL,60115,41.94825,-88.72298
+Randall Road,1876 S Randall Rd,Geneva,IL,60134,41.86786,-88.34323
+Melrose Park,1334 Winston Plz,Melrose Park,IL,60160,41.90716,-87.85034
+Schaumburg,900 E Golf Rd,Schaumburg,IL,60173,42.05154,-88.05669
+Renaissance Schaumburg Convention Center Hotel,1551 THOREAU DR N,SCHAUMBURG,IL,60173,42.061216,-88.041657
+BBT031OHIL,10201 Belle Plaine Ave,Schiller Park,IL,60176,41.95275776088238,-87.88336426019669
+South Elgin,424 Randall Rd,South Elgin,IL,60177,41.98452,-88.34394
+Evanston,2301 Howard St,Evanston,IL,60202,42.02097,-87.70697
+Crestwood,4925 Cal Sag Rd,Crestwood,IL,60418,41.65376,-87.74315
+Homewood,17800 S Halsted St,Homewood,IL,60430,41.56618,-87.63762
+Joliet,3351 Mall Loop Dr,Joliet,IL,60431,41.58082,-88.16543
+Appliance Outlet Chicago,7602 S Cicero Ave,Burbank,IL,60459,41.755876,-87.743288
+Burbank,7600 S Cicero Ave,Burbank,IL,60459,41.75588,-87.74252
+Orland Park,15854 S La Grange Rd,Orland Park,IL,60462,41.60189,-87.85695
+Tinley Park,7330 191st St,Tinley Park,IL,60487,41.54892,-87.7959
+CHICAGO SALE EVENT,1500 Remington Blvd,Bolingbrook,IL,60490,41.65358,-88.13174
+Bolingbrook,315 N Weber Rd,Bolingbrook,IL,60490,41.7048,-88.12792
+Naperville,4400 E New York St,Aurora,IL,60504,41.76491,-88.20743
+Butterfield Road,1432 Butterfield Rd,Downers Grove,IL,60515,41.83595,-88.01968
+75th & Lemont,7401 Lemont Rd,Downers Grove,IL,60516,41.75259,-88.01016
+Illinois Tollway Hinsdale Oasis,5800 Tri State Toll Rd,Hinsdale,IL,60521,41.77663803100586,-87.90787506103516
+Countryside,11 Countryside Plz,Countryside,IL,60525,41.78414,-87.87201
+Oswego,2600 US Hwy 34,Oswego,IL,60543,41.70146,-88.30987
+North Riverside,2358 Harlem Ave,North Riverside,IL,60546,41.84795,-87.80607
+BBM026BTIL,7505 W Cermak Rd,North Riverside,IL,60546,,
+Hyatt Regency Chicago,151 E Upper Wacker Dr,Chicago,IL,60601,41.886825,-87.627213
+V1BBR00002,172 W Adams St,Chicago,IL,60603,,
+South Loop,555 W Roosevelt Rd,Chicago,IL,60607,41.86686,-87.64116
+John Hancock Center,875 N Michigan Ave,Chicago,IL,60611,41.89875,-87.6235
+Bucktown,2100 N Elston Ave,Chicago,IL,60614,41.91902,-87.66966
+Hyatt Regency McCormick Place,2233 S Martin Luther King Blvd,Chicago,IL,60616,41.84725570678711,-87.62774658203125
+North Avenue,1000 W North Ave,Chicago,IL,60642,41.91255,-87.65454
+BBT043UBIL,1401 W North Ave,Chicago,IL,60642,,
+Harlem & Irving,4100A N Harlem Ave,Norridge,IL,60706,41.95447,-87.80772
+Kankakee,1584 N State Route 50,Bourbonnais,IL,60914,41.17263,-87.85042
+Illinois Tollway Belvidere Oasis,2510 Pearl St,Belvidere,IL,61008,42.23517827689648,-88.84171687066555
+Rockford,281 Deane Dr,Rockford,IL,61107,42.27114,-88.98191
+Peoria,5001 N Big Hollow Rd,Peoria,IL,61615,40.74842,-89.64036
+Bloomington,2103 N Veterans Pkwy,Bloomington,IL,61704,40.50736,-88.9517
+Champaign,2117 N Prospect Ave,Champaign,IL,61822,40.14217,-88.26041
+Edwardsville,6670 Edwardsville Crossing Dr,Edwardsville,IL,62025,38.78824,-89.95185
+Fairview Heights,26 Plaza Dr,Fairview Heights,IL,62208,38.59892,-89.99405
+Forsyth,1450 Koester Dr,Forsyth,IL,62535,39.9157,-88.95303
+Springfield,3193 S Veterans Pkwy,Springfield,IL,62704,39.75951,-89.70831
+Carbondale,1270 E Main St,Carbondale,IL,62901,37.73425,-89.19184
+Chesterfield,178 THF Blvd,Chesterfield,MO,63005,38.66601,-90.59511
+CHESTERFIELD OUTLET,17397 CHESTERFIELD AIRPORT RD,CHESTERFIELD,MO,63005,38.66995,-90.60623
+Manchester,151 Highlands Blvd Dr,Manchester,MO,63011,38.5941,-90.50747
+Fenton,717 Gravois Rd,Fenton,MO,63026,38.51222,-90.44799
+Bridgeton,12410 St Charles Rock Rd,Bridgeton,MO,63044,38.75415,-90.43246
+South County,7017 S Lindbergh Blvd,Saint Louis,MO,63125,38.50958,-90.33042
+Brentwood,8350 Eager Rd,Saint Louis,MO,63144,38.62814,-90.33718
+ST LOUIS SALE EVENT,2000 PREMIER PKWY,SAINT PETERS,MO,63376,,
+Mid Rivers Mall,5651 South Service Rd,Saint Peters,MO,63376,38.79818,-90.61192
+Cape Girardeau,3026 William St,Cape Girardeau,MO,63703,37.30179,-89.5696
+Independence,19110 E 39th St S,Independence,MO,64057,39.05009,-94.35494
+Lees Summit,1608 NW Chipman Rd,Lees Summit,MO,64081,38.93031,-94.40725
+Kansas City Airport (MCI) Gate C47,601 Brasilia Ave,Kansas City,MO,64153,39.30629052221775,-94.7163674980402
+Kansas City Airport( MCI) Gate B37,601 Brasilia Ave,Kansas City,MO,64153,39.30629052221775,-94.7163674980402
+Kansas City Airport (MCI) Gate B56,601 Brasilia Ave,Kansas City,MO,64153,39.30629052221775,-94.7163674980402
+Tiffany Springs,9130 N Skyview Ave,Kansas City,MO,64154,39.25891,-94.65784
+Liberty,8500 N Flintlock Rd,Kansas City,MO,64157,39.24611,-94.46756
+St Joseph,5201 N Belt Hwy,Saint Joseph,MO,64506,39.81693,-94.81301
+Joplin,3117 Turkey Creek Blvd,Joplin,MO,64801,37.09457,-94.47404
+Jefferson City,3225 Missouri Blvd,Jefferson City,MO,65109,38.58057,-92.24038
+Columbia,2001 W Worley St,Columbia,MO,65203,38.96282,-92.37
+Branson,977 Branson Hills Pkwy,Branson,MO,65616,36.66781,-93.22503
+Battlefield,3450 S Glenstone Ave,Springfield,MO,65804,37.15078,-93.25699
+L1BBR00001,1845 E SUNSHINE ST,SPRINGFIELD,MO,65804,37.181684,-93.261533
+Lawrence,2020 W 31st St,Lawrence,KS,66046,38.92984,-95.25901
+Overland Park,11525 Metcalf Ave,Overland Park,KS,66210,38.91694,-94.66687
+Oak Park,9301 Quivira Rd,Overland Park,KS,66215,38.95953,-94.72282
+Manhattan,329 Tuttle Creek Blvd,Manhattan,KS,66502,39.18229,-96.55927
+Topeka,1600 SW Wanamaker Rd,Topeka,KS,66604,39.0376,-95.7606
+NW Wichita,2441 N Maize Rd,Wichita,KS,67205,37.7304,-97.46445
+Wichita,2111 North Rock Rd,Wichita,KS,67206,37.72181,-97.2467
+West Wichita,6700 W Kellogg Dr,Wichita,KS,67209,37.67512,-97.41971
+Papillion,7949 Towne Center Pkwy,Papillion,NE,68046,41.1366,-96.03072
+BBR054HONE,1001 CASS ST,OMAHA,NE,68102,,
+Omaha East,115 N 76th St,Omaha,NE,68114,41.259949,-96.031483
+West Omaha,333 N 170th St,Omaha,NE,68118,41.26164,-96.18021
+Lincoln,6919 O Street,Lincoln,NE,68510,40.81256,-96.62589
+Grand Island,3404 W 13th St,Grand Island,NE,68803,40.93465,-98.3815
+Lakeside,3780 Veterans Memorial Blvd,Metairie,LA,70002,30.00281,-90.16763
+Veterans Blvd,6205 Veterans Memorial Blvd,Metairie,LA,70003,30.00565,-90.21117
+West Bank,1601 Westbank Expy,Harvey,LA,70058,29.90551,-90.06798
+Harahan,1138 S Clearview Pkwy,New Orleans,LA,70123,29.96326,-90.18569
+Hilton New Orleans Riverside,2 Poydras St,New Orleans,LA,70130,29.947879,-90.063425
+Houma,1640 Martin Luther King Blvd,Houma,LA,70360,29.61166,-90.75093
+Hammond,2020 Hammond Square Dr,Hammond,LA,70403,30.4805,-90.46042
+Covington,69344 Highway 21,Covington,LA,70433,30.4444,-90.13722
+Slidell,200 Town Center Pkwy,Slidell,LA,70458,30.26809,-89.75772
+Lafayette,5635 Johnston St,Lafayette,LA,70503,30.17568,-92.0746
+Lake Charles,715 W Prien Lake Rd,Lake Charles,LA,70601,30.19782,-93.2311
+Millerville,1977 Millerville Rd,Baton Rouge,LA,70816,30.44179,-91.02203
+Baton Rouge,5913 Bluebonnet Blvd,Baton Rouge,LA,70836,30.39268,-91.08416
+Shreveport,7080 Youree Dr,Shreveport,LA,71105,32.44074,-93.72049
+Bossier City,2641 Beene Blvd,Bossier City,LA,71111,32.55857,-93.70915
+Monroe,4429 Pecanland Mall Dr,Monroe,LA,71203,32.49859,-92.06739
+Alexandria,2657 S Macarthur Dr,Alexandria,LA,71301,31.27102,-92.4591
+Hot Springs,1462 Higdon Ferry Rd,Hot Springs,AR,71913,34.46749,-93.07234
+Conway,600 Elsinger Blvd,Conway,AR,72032,35.08629,-92.41133
+North Little Rock,4229 E McCain Blvd,North Little Rock,AR,72117,34.79136,-92.22103
+Clinton National (LIT) Gate 3,One Airport Dr,Little Rock,AR,72202,34.75342559814453,-92.2747573852539
+West Little Rock,11800 Chenal Pkwy,Little Rock,AR,72211,34.7498,-92.40573
+Jonesboro,3000 E Highland Dr,Jonesboro,AR,72401,35.82281,-90.66332
+Fayetteville,464 E Joyce Blvd,Fayetteville,AR,72703,36.12484,-94.15066
+Northwest Arkansas Airport (XNA) Gate A1,1 Airport Blvd #100,Bentonville,AR,72712,36.279748,-94.302562
+Rogers,2220 Promenade Blvd,Rogers,AR,72758,36.30456,-94.17959
+Fort Smith,4195 Phoenix Ave,Fort Smith,AR,72903,35.34039,-94.38509
+Norman,400 26th Ave NW,Norman,OK,73069,35.22262,-97.48286
+Midwest City,7231 SE 29th St,Midwest City,OK,73110,35.43737,-97.3983
+Oklahoma City North,5801 N May Ave,Oklahoma City,OK,73112,35.53047,-97.56672
+Oklahoma City West,6421 SW 3rd St,Oklahoma City,OK,73128,35.46312,-97.62872
+Quail Springs,2135 W Memorial Rd,Oklahoma City,OK,73134,35.61098,-97.55152
+Oklahoma City South,1409 W I 240 Service Rd,Oklahoma City,OK,73159,35.39307,-97.53946
+Moore,2700 S Service Rd,Moore,OK,73160,35.31373,-97.48721
+Owasso,9055 N 121st East Ave,Owasso,OK,74055,36.29046,-95.83965
+Stillwater,1940 N Perkins Rd,Stillwater,OK,74075,36.14153,-97.05412
+Tulsa Airport (TUL) Gate B1,7777 East Apache,Tulsa,OK,74115,36.1975402832031,-95.8953247070313
+TUL Airport Gate A1,7777 E APACHE ST,TULSA,OK,74115,36.190897,-95.889833
+Tulsa Hills,7308 S Olympia Ave,Tulsa,OK,74132,36.05835,-96.00493
+Tulsa,10303 E 71st St,Tulsa,OK,74133,36.064,-95.86082
+Tulsa Midtown,5520 E Skelly Dr,Tulsa,OK,74135,36.09981,-95.91425
+Muskogee,900 W Shawnee St,Muskogee,OK,74401,35.77232,-95.37135
+Allen,190 E Stacy Rd,Allen,TX,75002,33.12574,-96.66155
+Flower Mound,6060 Long Prairie Rd,Flower Mound,TX,75028,33.06956,-97.08073
+DALLAS SALE EVENT,609 Enterprise Rd,Flower Mound,TX,75028,,
+Eldorado Pkwy,5299 Eldorado Pkwy,Frisco,TX,75033,33.17304,-96.84138
+Frisco,3333 Preston Rd,Frisco,TX,75034,33.10827,-96.80879
+Garland,3171 N George Bush Fwy,Garland,TX,75040,32.94538,-96.61415
+Irving,4017 W Airport Fwy,Irving,TX,75062,32.83676,-96.9872
+North Irving,1900 Market Place Blvd,Irving,TX,75063,32.92071,-96.97224
+Lewisville,2601 S Stemmons Fwy,Lewisville,TX,75067,32.99975,-96.96357
+Mckinney,1751 N Central Expy,McKinney,TX,75070,33.21422,-96.64005
+Plano,2800 N Central Expy,Plano,TX,75074,33.03558,-96.70363
+Rockwall,995 E I-30,Rockwall,TX,75087,32.90414,-96.45299
+Sherman,823 N Creek Dr,Sherman,TX,75092,33.68396,-96.6097
+Cedar Hill,731 N Highway 67,Cedar Hill,TX,75104,32.60197,-96.93716
+Mesquite,2701 N Mesquite Dr,Mesquite,TX,75150,32.80206,-96.62973
+Waxahachie,1168 W Highway 287 Byp,Waxahachie,TX,75165,32.42318,-96.84319
+Park Lane,9378 N Central Expy,Dallas,TX,75231,32.87547,-96.76774
+Dallas Love Field Airport (DAL) North Concourse,Dallas Love Airport,Dallas,TX,75235,32.83477020263672,-96.85153198242188
+Midway / LBJ,4255 Lyndon B Johnson Fwy,Farmers Branch,TX,75244,32.92736,-96.83741
+DALLAS OUTLET CENTER,4245 Lyndon B Johnson Fwy,Farmers Branch,TX,75244,32.927372,-96.837612
+BBR053WDPC,12720 MERIT DR,DALLAS,TX,75251,,
+L1BBR00002,12720 Merit Drive,Dallas,TX,75251,,
+Prestonwood,5301 Belt Line Rd,Dallas,TX,75254,32.9562,-96.81579
+Dallas Fort Worth Airport (DFW) Gate E7,Dallas Fort Worth Intl,Dallas,TX,75261,32.903199,-97.057367
+Dallas Fort Worth Airport (DFW) Gate B22,Dallas Fort Worth Intl,Dallas,TX,75261,32.903199,-97.057367
+Dallas Fort Worth Airport (DFW) Gate B45/49,Dallas Fort Worth Intl,Dallas,TX,75261,32.903199,-97.057367
+Dallas Fort Worth Airport (DFW) Gate C31,Dallas Fort Worth Intl,Dallas,TX,75261,32.903199,-97.057367
+Dallas Fort Worth Airport (DFW) Gate D12,Dallas Fort Worth Intl,Dallas,TX,75261,32.903199,-97.057367
+Dallas Fort Worth Airport (DFW) Gate E14,Dallas Fort Worth Intl,Dallas,TX,75261,32.903199,-97.057367
+Dallas Fort Worth Airport (DFW) Gate D40,3200 East Airfield Dr,Dallas,TX,75261,32.874195,-97.015666
+Dallas Fort Worth Airport (DFW) Gate D21,3200 E Airfield Dr,Dallas,TX,75261,32.87420444190502,-97.01566703617573
+DFW Airport Gate B2,3200 E AIRFIELD DR,DALLAS,TX,75261,32.888407,-97.015803
+Texarkana,4210 Saint Michael Dr,Texarkana,TX,75503,33.45426,-94.09483
+Longview,422 W Loop 281,Longview,TX,75605,32.53908,-94.75865
+Tyler,5514 S Broadway Ave,Tyler,TX,75703,32.28823,-95.30126
+Lufkin,4505 S Medford Dr,Lufkin,TX,75901,31.30945,-94.72327
+Arlington,1730 Pleasant Pl,Arlington,TX,76015,32.67732,-97.13739
+South Fort Worth,12820 South Fwy,Burleson,TX,76028,32.57132,-97.32087
+Grapevine,1515 W State Hwy 114,Grapevine,TX,76051,32.92895,-97.09608
+Hurst,869 NE Mall Blvd,Hurst,TX,76053,32.82703,-97.20299
+Mansfield,2041 Highway 287 N,Mansfield,TX,76063,32.59735,-97.15076
+Weatherford,138 E Interstate 20,Weatherford,TX,76087,32.7272,-97.78352
+Ridgmar,6750 West Fwy,Fort Worth,TX,76116,32.73702,-97.43381
+Hulen,5604 SW Loop 820,Fort Worth,TX,76132,32.68583,-97.40889
+Fort Worth,5944 Quebec St,Fort Worth,TX,76135,32.80685,-97.42737
+Heritage Trace Parkway,9581 Sage Meadow Trl,Fort Worth,TX,76177,32.9122,-97.31578
+Denton,1800 S Loop 288,Denton,TX,76205,33.19236,-97.10006
+Wichita Falls,4100 Kemp Blvd,Wichita Falls,TX,76308,33.86848,-98.53701
+Temple,3550 S General Bruce Dr,Temple,TX,76504,31.09336,-97.38275
+Killeen,3209 E Central Texas Expy,Killeen,TX,76543,31.08773,-97.70679
+Waco,4627 S Jack Kultgen Expy,Waco,TX,76706,31.49966,-97.14887
+San Angelo,4325 Sunset Dr,San Angelo,TX,76901,31.43384,-100.5026
+George Bush Airport (IAH) Gate C29,George Bush Intl,Houston,TX,77032,29.978419169783592,-95.34235149621964
+George Bush Airport (IAH) Terminal A South Foodcourt,George Bush Intl,Houston,TX,77032,29.978419169783592,-95.34235149621964
+George Bush Airport (IAH) Gate E9,George Bush Intl,Houston,TX,77032,29.978419169783592,-95.34235149621964
+George Bush Airport (IAH) Gate E22,George Bush Intl,Houston,TX,77032,29.978419169783592,-95.34235149621964
+George Bush Airport (IAH) D/E Connector,George Bush Intl,Houston,TX,77032,29.978419169783592,-95.34235149621964
+George Bush Airport (IAH) Gate C14,IAH George Bush Terminal C,Houston,TX,77032,29.96709442138672,-95.33636474609375
+George Bush Airport (IAH) Terminal A North Food Court,2800 North Terminal Rd,Houston,TX,77032,29.987313374876976,-95.34910663962364
+George Bush Houston Airport (IAH) Gate D9,2800 N Terminal Rd,Houston,TX,77032,29.983924,-95.332202
+Sharpstown,8210 S Gessner Dr,Houston,TX,77036,29.68804,-95.5334
+Greenspoint,10777 North Fwy,Houston,TX,77037,29.92292,-95.41408
+Northwest Crossing,13238 Northwest Fwy,Houston,TX,77040,29.84867,-95.50125
+East Houston,6006 E Sam Houston Pkwy N,Houston,TX,77049,29.81203,-95.16189
+Bunker Hill Rd,9670 Old Katy Rd,Houston,TX,77055,29.78591,-95.5306
+Galleria,5133 Richmond Ave,Houston,TX,77056,29.73087,-95.46269
+Houston Hobby Airport (HOU) Gate 23,7800 Airport Blvd,Houston,TX,77061,29.644407,-95.332896
+Houston Hobby Airport (HOU)   Gate 43,7800 Airport Blvd,Houston,TX,77061,29.644407,-95.332896
+Houston Hobby Airport (HOU),7800 Airport Blvd,Houston,TX,77061,29.644407,-95.332896
+HOUSTON OUTLET,17713 Tomball Pkwy,Houston,TX,77064,29.94538,-95.52752
+Willowbrook,7318 Fm 1960 Rd W,Houston,TX,77070,29.96758,-95.53821
+West Oaks,2480 Highway 6 S,Houston,TX,77077,29.73618,-95.64632
+Gulfgate,510 Gulfgate Center Mall,Houston,TX,77087,29.69837,-95.29388
+Copperfield,7034 Highway 6 N,Houston,TX,77095,29.88116,-95.64338
+Meyerland,100 Meyerland Plaza Mall,Houston,TX,77096,29.68556,-95.46302
+Conroe,501 Interstate 45 S,Conroe,TX,77301,30.31289,-95.47315
+Humble,20408 Highway 59 N,Humble,TX,77338,30.01095,-95.26201
+Atascocita,19125 W Lake Houston Pkwy,Humble,TX,77346,29.99633,-95.16437
+The Woodlands,1550 Lake Woodlands Dr,The Woodlands,TX,77380,30.16991,-95.4585
+Spring,19503 Interstate 45,Spring,TX,77388,30.04996,-95.43225
+Grand Parkway,5340 W Grand Pkwy S,Richmond,TX,77406,29.69598,-95.77679
+Cypress,25525 Highway 290,Cypress,TX,77429,29.96535,-95.69091
+Fry Road,20290 Katy Fwy (Fry Rd Exit),Katy,TX,77449,29.78739,-95.72424
+Rosenberg,24230 Commercial Dr,Rosenberg,TX,77471,29.54692,-95.75382
+Sugar Land,16980 Southwest Fwy,Sugar Land,TX,77479,29.58874,-95.63859
+HOUSTON SALE EVENT,636 Hwy 90A,Missouri City,TX,77489,,
+Pasadena,5692 Fairmont Pkwy,Pasadena,TX,77505,29.64645,-95.15403
+Baytown,4620 Garth Rd,Baytown,TX,77521,29.77313,-94.97634
+Lake Jackson,104 Highway 332 E,Lake Jackson,TX,77566,29.04438,-95.45701
+Victory Lakes,2510 Gulf Fwy S,League City,TX,77573,29.473,-95.09503
+Pearland,2632 Smith Ranch Rd,Pearland,TX,77584,29.55917,-95.38527
+Baybrook,19425 Gulf Fwy,Webster,TX,77598,29.54381,-95.13989
+Port Arthur,8725 Memorial Blvd,Port Arthur,TX,77640,29.9449,-93.99632
+Beaumont,5885 Eastex Fwy,Beaumont,TX,77706,30.12358,-94.1555
+College Station,805 Texas Ave S,College Station,TX,77840,30.62594,-96.32975
+Victoria,7800 N Navarro St,Victoria,TX,77904,28.86641,-96.99481
+Laredo North,2455 Monarch Dr,Laredo,TX,78045,27.61117,-99.46931
+Laredo,7905 San Dario Ave,Laredo,TX,78045,27.57237,-99.50078
+New Braunfels,187 Creekside Wy,New Braunfels,TX,78130,29.73042,-98.07238
+Forum,8210 Agora Pkwy,Selma,TX,78154,29.56765,-98.32813
+North Star,125 NW Loop 410,San Antonio,TX,78216,29.52291,-98.49481
+San Antonia (SAT) Gate A10,9800 Airport Blvd,San Antonio,TX,78216,29.52800941467285,-98.47541046142578
+San Antonia (SAT) Terminal B Food Court,9800 Airport Blvd,San Antonio,TX,78216,29.52800941467285,-98.47541046142578
+City Base,3142 SE Military Dr,San Antonio,TX,78223,29.35033,-98.43666
+Legacy,2003 N Loop 1604 E,San Antonio,TX,78232,29.60877,-98.46061
+San Antonio Ingram,6001 NW Loop 410,San Antonio,TX,78238,29.47621,-98.61181
+SAN ANTONIO OUTLET,6218 Wood Glen Dr,San Antonio,TX,78244,29.482983,-98.350461
+Alamo Ranch,5419 W Loop 1604 N,San Antonio,TX,78253,29.48853,-98.71017
+La Cantera,17414 La Cantera,San Antonio,TX,78257,29.60542,-98.59904
+Corpus Christi,4717 S Padre Island Dr,Corpus Christi,TX,78411,27.71429,-97.38745
+West Mcallen,3400 E Expressway 83,McAllen,TX,78501,26.19637,-98.26258
+Mcallen,700 S Jackson Rd,McAllen,TX,78503,26.19321,-98.20578
+North Mcallen,8012 N 10th St,McAllen,TX,78504,26.27566,-98.21494
+Brownsville,2701 Pablo Kisel Blvd,Brownsville,TX,78526,25.96041,-97.50654
+Bastrop,761 Hwy 71 W,Bastrop,TX,78602,30.11197,-97.35535
+Cedar Park,11066 Pecan Park Blvd,Cedar Park,TX,78613,30.46875,-97.80062
+Georgetown,1015 W University Ave,Georgetown,TX,78628,30.62999,-97.69348
+Pflugerville,19000 Limestone Commercial Dr,Pflugerville,TX,78660,30.47323,-97.59681
+Round Rock,3201 South Interstate 35,Round Rock,TX,78664,30.47612,-97.67114
+San Marcos,1050 McKinley Place Dr,San Marcos,TX,78666,29.85261,-97.95568
+Auston-Bergstrom Airport (AUS) Gate 14,3600 Presidential Blvd,Austin,TX,78719,30.202631726861,-97.66749814152718
+Austin-Bergstrom Airport (AUS) Gate 6,3600 Presidential Blvd,Austin,TX,78719,30.202659606933594,-97.66545104980469
+Mueller Airport,1201 Barbara Jordan Blvd,Austin,TX,78723,30.30679,-97.71063
+South Austin,4970 W Highway 290,Austin,TX,78735,30.23636,-97.82079
+Bee Cave,12909 Shops Pkwy,Bee Cave,TX,78738,30.30527,-97.94418
+Southpark Meadows,9600 S Interstate 35,Austin,TX,78748,30.15919,-97.79183
+North Austin,9607 Research Blvd,Austin,TX,78759,30.38843,-97.74117
+Amarillo,101 Westgate Pkwy,Amarillo,TX,79121,35.18409,-101.93366
+Lubbock,2420 W Loop 289,Lubbock,TX,79407,33.557116,-101.940202
+Abilene,4310 Buffalo Gap Rd,Abilene,TX,79606,32.40139,-99.76168
+Midland,2511 W Loop 250 N,Midland,TX,79705,32.03488,-102.11766
+Odessa,6300 E Highway 191,Odessa,TX,79762,31.90023,-102.3142
+West El Paso,815 Sunland Park Dr,El Paso,TX,79912,31.81801,-106.54998
+El Paso,8889 Gateway Blvd W,El Paso,TX,79925,31.77238,-106.37412
+El Paso Airport (ELP) Gate E1,6701 Convair Rd,El Paso,TX,79925,31.79889142513275,-106.39562822878361
+East El Paso,1834 Joe Battle Blvd,El Paso,TX,79936,31.75535,-106.26518
+I70 & Tower Rd,3511 N Salida Ct,Aurora,CO,80011,39.76289,-104.77895
+Aurora,13801 E Mississippi Ave,Aurora,CO,80012,39.69776,-104.82759
+S.E. Aurora,5999 S Southlands Pkwy,Aurora,CO,80016,39.60779,-104.71162
+DENVER SALE EVENT,21800 E 19th Ave,Aurora,CO,80019,39.743685,-104.709335
+Westminster,9369 Sheridan Blvd,Westminster,CO,80031,39.86664,-105.05618
+Southglenn,6707 S Vine St,Centennial,CO,80122,39.59452,-104.96512
+Littleton,5395 S Wadsworth Blvd,Lakewood,CO,80123,39.61967,-105.0923
+S.E. Denver,8682 Park Meadows Center Dr,Lone Tree,CO,80124,39.55738,-104.87546
+Parker,11267 Pikes Peak Dr,Parker,CO,80138,39.51193,-104.76173
+Colorado Blvd,4100 E Mexico Ave,Denver,CO,80222,39.68535,-104.93802
+Belmar,384 S Wadsworth Blvd,Lakewood,CO,80226,39.7097,-105.08095
+Northglenn,104 W 104th Ave,Denver,CO,80234,39.88393,-104.98887
+Boulder,1740 30th St,Boulder,CO,80301,40.0168,-105.25305
+Denver West,1400 Denver West Blvd,Lakewood,CO,80401,39.73739,-105.15429
+Longmont,210 Ken Pratt Blvd,Longmont,CO,80501,40.15397,-105.0966
+Fort Collins,4040 S College Ave,Fort Collins,CO,80525,40.530648,-105.075644
+Loveland,6075 Sky Pond Dr,Loveland,CO,80538,40.41952,-104.9896
+Greeley,4210 Centerplace Dr,Greeley,CO,80634,40.39425,-104.7464
+Academy Blvd,7675 N Academy Blvd,Colorado Springs,CO,80920,38.94366,-104.79782
+First & Main,3150 New Center Point,Colorado Springs,CO,80922,38.87812,-104.71825
+Pueblo,5890 N Elizabeth St,Pueblo,CO,81008,38.33452,-104.62043
+Grand Junction,585 24 1/2 Rd,Grand Junction,CO,81505,39.08966,-108.59938
+Casper,601 SE Wyoming Blvd,Casper,WY,82609,42.8471,-106.26553
+Twin Falls,2068 Bridgeview Blvd,Twin Falls,ID,83301,42.59666,-114.45315
+Idaho Falls,2404 S 25th E,Idaho Falls,ID,83404,43.47745,-111.98718
+Nampa,16485 N Marketplace Blvd,Nampa,ID,83687,43.61193,-116.5927
+Boise,8363 W Franklin Rd,Boise,ID,83709,43.60384,-116.28631
+Coeur d'Alene,425 W Wilbur Ave,Coeur D Alene,ID,83815,47.73777,-116.79408
+American Fork,763 W Grasslands Dr,American Fork,UT,84003,40.38413,-111.81953
+Farmington,360 N Station Pkwy,Farmington,UT,84025,40.986031,-111.902488
+Orem,309 E University Pkwy,Orem,UT,84058,40.27458,-111.68841
+Sandy,35 E 11400 S,Sandy,UT,84070,40.54576,-111.89025
+Jordan Landing,7643 Jordan Landing Blvd,West Jordan,UT,84084,40.61178,-111.98365
+Park City,1209 Center Dr,Park City,UT,84098,40.7209,-111.53933
+Murray,5181 S State St,Murray,UT,84107,40.65857,-111.88683
+South Salt Lake City,261 W 2100 S,Salt Lake City,UT,84115,40.72417,-111.89813
+Logan,1475 N Main St,Logan,UT,84341,41.75949,-111.8364
+Riverdale,1093 W Riverdale Rd,Ogden,UT,84405,41.17511,-112.0051
+Washington,844 W Telegraph St,Washington,UT,84780,37.12879,-113.52332
+Camelback,1949 E Camelback Rd,Phoenix,AZ,85016,33.5081,-112.04044
+Paradise Valley,12645 N 48th St,Phoenix,AZ,85032,33.60075,-111.97646
+Ahwatukee,5051 East Ray Rd,Phoenix,AZ,85044,33.31787,-111.9738
+Thunderbird Rd.,2727 W Thunderbird Rd,Phoenix,AZ,85053,33.60964,-112.11817
+Happy Valley,2440 W Happy Valley Rd,Phoenix,AZ,85085,33.7141,-112.11225
+Superstition Springs,6315 E Southern Ave,Mesa,AZ,85206,33.39205,-111.69492
+Chandler,3100 W Frye Rd,Chandler,AZ,85226,33.29895,-111.89592
+North Scottsdale,15449 N Hayden Rd,Scottsdale,AZ,85260,33.62631,-111.89328
+Tempe Marketplace,1900 E Rio Salado Pkwy,Tempe,AZ,85281,33.43007,-111.90426
+Gilbert,2288 E Williams Field Rd,Gilbert,AZ,85295,33.30883,-111.74086
+Arrowhead,8290 W Bell Rd,Glendale,AZ,85308,33.64034,-112.23268
+Yuma,1364 S Yuma Palms Pkwy,Yuma,AZ,85365,32.70244,-114.60653
+Surprise,13711 W Bell Rd,Surprise,AZ,85374,33.63682,-112.35124
+Avondale,10035 W McDowell Rd,Avondale,AZ,85392,33.46307,-112.27569
+Goodyear,1408 N Litchfield Rd,Goodyear,AZ,85395,33.46141,-112.36126
+Sierra Vista,2200 El Mercado Loop,Sierra Vista,AZ,85635,31.52957,-110.25926
+Tucson,575 E Wetmore Rd,Tucson,AZ,85705,32.28834,-110.96308
+SW Tucson,5311 S Calle Santa Cruz,Tucson,AZ,85706,32.15526,-110.98933
+East Tucson,6025 E Broadway Blvd,Tucson,AZ,85711,32.22218,-110.86361
+Oro Valley,11855 N Oracle Rd,Oro Valley,AZ,85737,32.42154,-110.93829
+Flagstaff,5005 E Marketplace Dr,Flagstaff,AZ,86004,35.22235,-111.57356
+Prescott,3085 Gateway Blvd,Prescott,AZ,86303,34.55029,-112.41232
+West Albuquerque,3741 Ellison Road NW,Albuquerque,NM,87114,35.20694,-106.65593
+Albuquerque,55 Hotel Cir NE,Albuquerque,NM,87123,35.08233,-106.5271
+BBT046FJNM,1 Giant Crossing,Jamestown,NM,87347,,
+Farmington,3520 E Main St,Farmington,NM,87402,36.7508,-108.1617
+Santa Fe,3533 Zafarano Dr,Santa Fe,NM,87507,35.63974,-106.01038
+Las Cruces,2280 E Lohman Ave,Las Cruces,NM,88001,32.31122,-106.7512
+Henderson,611 Marks St,Henderson,NV,89014,36.06455,-115.0381
+Tropicana Laughlin Resort and Casino,2121 S Casino Dr,Laughlin,NV,89029,35.157772064208984,-114.57742309570312
+The Orleans Hotel & Casino,4500 W Tropicana Ave,Las Vegas,NV,89103,36.100973,-115.194525
+Rio Casino,3700 West Flamingo Rd,Las Vegas,NV,89103,36.11598461866379,-115.18634229898453
+Las Vegas II,2050 N Rainbow Blvd,Las Vegas,NV,89108,36.19649,-115.23838
+Planet Hollywood Miracle Mile,Planet Hollywood Miracle Mile,Las Vegas,NV,89109,36.1360969543457,-115.157470703125
+SW Las Vegas,6950 Arroyo Crossing Pkwy,Las Vegas,NV,89113,36.06438,-115.24353
+Maryland Parkway,3820 S Maryland Pkwy,Las Vegas,NV,89119,36.11976,-115.13571
+Luxor Retail Bridge,3900 Las Vegas Blvd S,Las Vegas,NV,89119,36.095770820975304,-115.17451979219913
+Centennial,6455 N Decatur Blvd,Las Vegas,NV,89131,36.27685,-115.20905
+Las Vegas,10950 W Charleston Blvd,Las Vegas,NV,89135,36.15971,-115.33564
+V1BBR00003,9090 Alta Dr,Las Vegas,NV,89145,,
+East Sparks,1315 Scheels Dr,Sparks,NV,89434,39.52947,-119.71974
+Spanish Springs,155 Los Altos Pkwy,Sparks,NV,89436,39.5798,-119.74172
+Reno,5575 S Virginia St,Reno,NV,89502,39.47462,-119.78983
+Reno/Tahoe Airport (RNO) Gate B1,Reno-Tahoe Intl,Reno,NV,89502,39.50653076171875,-119.77591705322266
+Reno/Tahoe Airport (RNO) Gate C5,Reno Airport Terminal C Gate 5,Reno,NV,89502,39.4948844909668,-119.74688720703125
+Carson Valley,911 Topsy Ln,Carson City,NV,89705,39.10721,-119.77569
+Hollywood and Highland,6801 Hollywood Blvd,Hollywood,CA,90028,34.102020263671875,-118.3404312133789
+West Hollywood,1015 N La Brea Ave,West Hollywood,CA,90038,34.08913,-118.34447
+Atwater Village,2909 Los Feliz Blvd,Los Angeles,CA,90039,34.12777,-118.2653
+BBA009LAX4,Los Angeles Intl Airport,Los Angeles,CA,90045,33.94559860229492,-118.39230346679688
+Los Angeles Airport (LAX) Terminal 7,Los Angeles Intl Airport,Los Angeles,CA,90045,33.94559860229492,-118.39230346679688
+Los Angeles Airport (LAX) Terminal 4 Gate 45,Los Angeles Intl Airport,Los Angeles,CA,90045,33.94559860229492,-118.39230346679688
+BBA055LAX3,Los Angeles Intl Airport,Los Angeles,CA,90045,33.94559860229492,-118.39230346679688
+Los Angeles Airport (LAX) Terminal 4 Gate 41,Los Angeles Intl Airport,Los Angeles,CA,90045,33.94559860229492,-118.39230346679688
+Los Angeles Airport (LAX) Terminal 8 Gate 81,1 World Way,Los Angeles,CA,90045,33.944102,-118.397594
+Los Angeles Airport (LAX)Terminal 5 Gate 50B,1 World Way,Los Angeles,CA,90045,33.944102,-118.397594
+Los Angeles Airport (LAX) American Eagle Terminal,1 World Way,Los Angeles,CA,90045,33.94410006701946,-118.39759558439255
+COMPTON SALE EVENT,1701 N CENTRAL AVE,LOS ANGELES,CA,90059,,
+West LA,11301 W Pico Blvd,Los Angeles,CA,90064,34.03557,-118.43963
+Compton,230 Towne Center Dr,Compton,CA,90220,33.87703,-118.21987
+Culver City Westfield,6000 Sepulveda Blvd,Culver City,CA,90230,33.98495,-118.39438
+Culver City,10799 Washington Blvd,Culver City,CA,90232,34.01612,-118.40704
+Downey,12118 Lakewood Blvd,Downey,CA,90242,33.92553,-118.12922
+Plaza El Segundo,740 S Pacific Coast Hwy,El Segundo,CA,90245,33.90639,-118.39398
+Hawthorne,5000 W 147th St,Hawthorne,CA,90250,33.89746,-118.36549
+Torrance,3675 Pacific Coast Hwy,Torrance,CA,90505,33.80557,-118.34977
+PAC TORRANCE,24120 Garnier St,Torrance,CA,90505,33.80676,-118.33671
+Montebello,2415 Via Campo,Montebello,CA,90640,34.03184,-118.1217
+Cerritos,12989 Park Plaza Dr,Cerritos,CA,90703,33.86913,-118.05612
+PAC CERRITOS,12731 Towne Center Dr,Cerritos,CA,90703,33.87165,-118.06013
+Lakewood,5101 Clark Ave,Lakewood,CA,90712,33.85148,-118.13431
+Signal Hill,2701 Cherry Ave,Signal Hill,CA,90755,33.80672,-118.16818
+Long Beach Airport (LGB) Gates 7/8,4100 Donald Douglas Dr,Long Beach,CA,90808,33.81873,-118.139311
+Duarte,1470 Mountain Ave,Duarte,CA,91010,34.13641,-117.98447
+PAC PASADENA,440 S Lake Ave,Pasadena,CA,91101,34.13835,-118.13192
+Pasadena,3415 E Foothill Blvd,Pasadena,CA,91107,34.15116,-118.08023
+Woodland Hills,21601 Victory Blvd,Canoga Park,CA,91303,34.18907,-118.60068
+PAC CHATSWORTH,9330 N Winnetka Ave,Chatsworth,CA,91311,34.24022,-118.5705
+PAC THOUSAND OAKS,2000 Anchor Ct,Thousand Oaks,CA,91320,34.1949,-118.92239
+Northridge,19350 Nordhoff Way,Northridge,CA,91324,34.23372,-118.55599
+Porter Ranch,19929 Rinaldi St,Northridge,CA,91326,34.27746,-118.56891
+Pacoima,13510 Paxton St,Pacoima,CA,91331,34.27203,-118.42396
+Santa Clarita,26531 Bouquet Canyon Rd,Santa Clarita,CA,91350,34.4288,-118.538
+PAC VALENCIA,29011 the Old Rd,Valencia,CA,91355,34.44469,-118.61062
+Thousand Oaks,390 N Moorpark Rd,Thousand Oaks,CA,91360,34.18242,-118.87414
+PAC WOODLAND HILLS,6100 Variel Ave,Woodland Hills,CA,91367,34.18114,-118.59214
+Sherman Oaks,4500 Van Nuys Blvd,Sherman Oaks,CA,91403,34.15328,-118.44822
+Burbank,1501 N Victory Pl,Burbank,CA,91502,34.18841,-118.32765
+PAC BURBANK,530 N Victory Blvd,Burbank,CA,91502,34.1794,-118.31861
+Chino,3873 Grand Ave,Chino,CA,91710,33.99653,-117.72016
+Rancho Cucamonga,12260 Foothill Blvd,Rancho Cucamonga,CA,91739,34.10778,-117.53806
+Glendora,1307 E Gladstone St,Glendora,CA,91740,34.115,-117.83695
+City of Industry,17545 Gale Ave,City of Industry,CA,91748,33.99749,-117.92264
+Eastvale,12281 Limonite Ave,Eastvale,CA,91752,33.97835,-117.54988
+Montclair,8960 Central Ave,Montclair,CA,91763,34.09145,-117.69193
+LOS ANGELES SALE EVENT,2104 E Jay St,Ontario,CA,91764,,
+PAC ONTARIO,5250 Ontario Mills Pkwy,Ontario,CA,91764,34.06822,-117.53781
+PAC SAN DIMAS,511 W Arrow Hwy,San Dimas,CA,91773,34.10417,-117.81638
+West Covina,1800 Plaza Dr,West Covina,CA,91790,34.07122,-117.93084
+Chula Vista,59 N Broadway,Chula Vista,CA,91910,32.65137,-117.09551
+Otay Ranch,2015 Birch Rd,Chula Vista,CA,91915,32.62193,-116.96385
+PAC CARLSBAD,6100 Paseo Del Norte,Carlsbad,CA,92011,33.12047,-117.31857
+El Cajon,149 Fletcher Pkwy,El Cajon,CA,92020,32.80619,-116.9631
+Encinitas,1046 N El Camino Real,Encinitas,CA,92024,33.0665,-117.26636
+PAC ESCONDIDO,1138 W Valley Pkwy,Escondido,CA,92025,33.11716,-117.09881
+La Jolla,8657 Villa La Jolla Dr,La Jolla,CA,92037,32.86613,-117.23171
+Oceanside,2110 Vista Way,Oceanside,CA,92054,33.18211,-117.34586
+Santee,9680 Mission Gorge Rd,Santee,CA,92071,32.83972,-116.98615
+San Marcos,567 Grand Ave,San Marcos,CA,92078,33.13621,-117.17438
+San Diego Airport (SAN) Terminal 2 Gate 49,3707 N Harbor Dr,San Diego,CA,92101,32.7295046299696,-117.19622075557709
+San Diego Airport (SAN) Terminal 2 Gates 20,3707 N Harbor Dr,San Diego,CA,92101,32.7295046299696,-117.19622075557709
+San Diego Airport (SAN)Terminal 1 Gate 12/13,3665 N Harbor Dr,San Diego,CA,92101,32.72950731217861,-117.195935100317
+San Diego Airport (SAN) Terminal 1 Gate 10,3665 N Harbor Dr,San Diego,CA,92101,32.72950731217861,-117.195935100317
+Mission Valley,5151 Mission Center Rd,San Diego,CA,92108,32.76957,-117.15275
+PAC MISSION VALLEY,920 Morena Blvd,San Diego,CA,92110,32.76605,-117.19917
+PAC LA JOLLA,7069 Consolidated Way,San Diego,CA,92121,32.87792,-117.16322
+San Diego,9540 Mira Mesa Blvd,San Diego,CA,92126,32.9178,-117.11933
+Carmel Mountain,11160 Rancho Carmel Dr,San Diego,CA,92128,32.97975,-117.08412
+Beaumont,1650 2nd St,Beaumont,CA,92223,33.92531,-116.94784
+El Centro,2901 S Dogwood,El Centro,CA,92243,32.76996,-115.53436
+La Quinta,79220 Hwy 111,La Quinta,CA,92253,33.70916,-116.2824
+Palm Desert,72369 Hwy 111,Palm Desert,CA,92260,33.72677,-116.40462
+PAC RANCHO MIRAGE,34295 Monterey Ave,Rancho Mirage,CA,92270,33.79895,-116.39142
+Apple Valley,18811 Bear Valley Rd,Apple Valley,CA,92308,34.46971,-117.25111
+Victorville,12133 Mall Blvd,Victorville,CA,92392,34.47152,-117.35109
+San Bernardino,888 Harriman Pl,San Bernardino,CA,92408,34.06682,-117.26701
+Riverside,3900 Tyler St,Riverside,CA,92503,33.91397,-117.46509
+Moreno Valley,2852 Canyon Springs Pkwy,Riverside,CA,92507,33.94123,-117.27974
+MORENO VALLEY OUTLET,27220 Eucalyptus,Moreno Valley,CA,92555,33.938248,-117.186092
+Murrieta,25080 Madison Ave,Murrieta,CA,92562,33.55811,-117.19904
+Menifee,30178 Haun Rd,Menifee,CA,92584,33.68248,-117.17245
+PAC TEMECULA,40480 Winchester Rd,Temecula,CA,92591,33.52861,-117.15303
+Temecula,32937 US Hwy 79,Temecula,CA,92592,33.48408,-117.08102
+PAC IRVINE,2592 White Rd,Irvine,CA,92614,33.67963,-117.8438
+Irvine Lake Forest,16171 Lake Forest Dr,Irvine,CA,92618,33.6305,-117.72491
+Costa Mesa,901 S Coast Dr,Costa Mesa,CA,92626,33.68853,-117.89294
+PAC HUNTINGTON BEACH,15272 Bolsa Chica Rd,Huntington Beach,CA,92649,33.74071,-118.04122
+PAC SAN JUAN CAPISTRANO,32501 Calle Perfecto,San Juan Capistrano,CA,92675,33.48796,-117.66604
+Westminster Mall,500 Westminster Mall Rd,Westminster,CA,92683,33.75056,-118.0145
+Mission Viejo,25422 El Paseo,Mission Viejo,CA,92691,33.59102,-117.67273
+Tustin,2982 El Camino Real,Tustin,CA,92782,33.72112,-117.79515
+Anaheim Gardenwalk,321 W KATELLA AVE,ANAHEIM,CA,92802,33.805735,-117.911495
+PAC BREA,2750 Saturn St,Brea,CA,92821,33.90802,-117.86054
+Anaheim,123 Orangefair Mall,Fullerton,CA,92832,33.85811,-117.92326
+Fullerton,120 E Imperial Hwy,Fullerton,CA,92835,33.91623,-117.93178
+East Orange,2375 N Tustin St,Orange,CA,92865,33.82801,-117.83397
+Orange,3741 W Chapman Ave,Orange,CA,92868,33.79053,-117.8923
+PAC CORONA,1385 Pico St,Corona,CA,92881,33.85893,-117.53743
+Corona,2430 Tuscany St,Corona,CA,92881,33.82326,-117.51825
+Yorba Linda,23000 Savi Ranch Pkwy,Yorba Linda,CA,92887,33.87387,-117.73653
+Oxnard,2300 N Rose Ave,Oxnard,CA,93036,34.22368,-119.15731
+Simi Valley,1173 Simi Town Center W,Simi Valley,CA,93065,34.2857,-118.77777
+Goleta,7090 Market Place Dr,Goleta,CA,93117,34.42952,-119.87551
+Visalia,4145 S Mooney Blvd,Visalia,CA,93277,36.29333,-119.31677
+BBT045FJCA,17047 Zachary Ave,Bakersfield,CA,93308,,
+Bakersfield,8300 Rosedale Hwy,Bakersfield,CA,93312,35.38609,-119.09449
+San Luis Obispo,255 Madonna Rd,San Luis Obispo,CA,93405,35.26179,-120.67419
+Santa Maria,2326 S Bradley Rd,Santa Maria,CA,93455,34.9176,-120.41902
+Palmdale,39330 10th St W,Palmdale,CA,93551,34.59753,-118.14507
+Clovis,655 W Herndon Ave,Clovis,CA,93612,36.84002,-119.72627
+Fresno,7550 N Blackstone Ave,Fresno,CA,93720,36.84606,-119.78634
+Salinas,390 Northridge Mall,Salinas,CA,93906,36.71387,-121.66104
+Marina,101 General Stillwell Dr,Marina,CA,93933,36.66582,-121.81369
+Colma,200 Colma Blvd,Colma,CA,94014,37.67639,-122.46474
+El Camino Real,715 E El Camino Real,Mountain View,CA,94040,37.37554168701172,-122.06324005126953
+Mountain View,2460 E Charleston Rd,Mountain View,CA,94043,37.42341,-122.09709
+San Bruno,1250 El Camino Real,San Bruno,CA,94066,37.63924,-122.42035
+San Carlos,1127 Industrial Rd,San Carlos,CA,94070,37.5023,-122.2441
+San Francisco Airport (SFO) Terminal 2 Gate 59,275 S Airport Blvd,South San Francisco,CA,94080,37.646909,-122.405496
+San Francisco Airport (SFO) Terminal 2 Gate 51A,275 S Airport Blvd,South San Francisco,CA,94080,37.646909,-122.405496
+San Francisco (13th and Harrison St.),1717 Harrison St,San Francisco,CA,94103,37.76845,-122.41286
+BBT051SFT1,200 FOLSOM ST,SAN FRANCISCO,CA,94105,37.789343,-122.392474
+BBT052SFT2,200 FOLSOM ST,SAN FRANCISCO,CA,94105,37.789343,-122.392474
+San Francisco Airport (SFO) International Terminal A Connector,S McDonnell Rd and S Link Rd,San Francisco,CA,94128,37.61351019144058,-122.39295981824398
+San Francisco Airport (SFO) International Terminal G Connector,S McDonnell Rd and S Link Rd,San Francisco,CA,94128,37.61351019144058,-122.39295981824398
+San Francisco Airport (SFO)  Terminal 3 Gate 69,S McDonnell Rd and S Link Rd,San Francisco,CA,94128,37.626794,-122.400681
+BBA118SFOI,S MCDONNELL AND S LINK RD,SAN FRANCISCO,CA,94128,,
+Pleasant Hill,3260 Buskirk Ave,Pleasant Hill,CA,94523,37.93521,-122.05922
+Slatten Ranch,5839 Lone Tree Way,Antioch,CA,94531,37.964141,-121.736129
+Fairfield,1547 Gateway Blvd,Fairfield,CA,94533,38.26033,-122.0561
+Pinole,1490 Fitzgerald Rd,Pinole,CA,94564,37.99031,-122.30608
+Dublin,4820 Dublin Blvd,Dublin,CA,94568,37.70378,-121.88248
+Union City,31350 Courthouse Dr,Union City,CA,94587,37.60097,-122.06425
+Vallejo,1182 Admiral Callaghan Ln,Vallejo,CA,94591,38.13445,-122.21502
+Emeryville,3700 Mandela Pkwy,Oakland,CA,94608,37.82737,-122.28677
+Metropolitan Oakland Airport (OAK) Terminal 1 Gate 5-7,Oakland International,Oakland,CA,94621,37.739909,-122.203782
+Oakland Airport (OAK) Terminal 2,9 Airport Dr,Oakland,CA,94621,37.716661244630814,-122.20870412886143
+San Rafael,700 Du Bois St,San Rafael,CA,94901,37.96713,-122.52033
+SAN RAFAEL OUTLET,1801 4th St,San Rafael,CA,94901,37.97386,-122.53847
+Gilroy,7011 Camino Arroyo,Gilroy,CA,95020,37.00486,-121.5517
+Milpitas,63 Ranch Ave,Milpitas,CA,95035,37.42792,-121.92312
+Soquel,2650 41st Ave,Soquel,CA,95073,36.98536,-121.96319
+Blossom Hill,5065 Almaden Expy,San Jose,CA,95118,37.25625,-121.87728
+San Jose,181 Curtner Ave,San Jose,CA,95125,37.30129,-121.86671
+Santana Row,3090 Stevens Creek Blvd,San Jose,CA,95128,37.32292,-121.9496
+Stockton,5400 Pacific Ave,Stockton,CA,95207,37.99966,-121.31401
+SAN FRAN SALE EVENT,2300 Chabot Ct,Tracy,CA,95304,,
+Tracy,2550 Naglee Rd,Tracy,CA,95304,37.75649,-121.45985
+Merced,1764 W Olive Ave,Merced,CA,95348,37.31729,-120.49835
+Modesto,3900 Sisk Rd,Modesto,CA,95356,37.69499,-121.06459
+Riverbank,2339 Claribel Rd,Riverbank,CA,95367,37.71356,-120.95597
+Santa Rosa,1950 Santa Rosa Ave,Santa Rosa,CA,95407,38.41941,-122.70947
+Auburn,1760 Grass Valley Hwy,Auburn,CA,95603,38.92903,-121.08617
+Citrus Heights,6110 Birdcage Centre Ln,Citrus Heights,CA,95610,38.67561,-121.27533
+Folsom,2445 Iron Point Rd,Folsom,CA,95630,38.64407,-121.12036
+Roseville,1236 Galleria Blvd,Roseville,CA,95678,38.7739,-121.26114
+Vacaville,1621 E Monte Vista Ave,Vacaville,CA,95688,38.3675,-121.9653
+Elk Grove,9131 W Stockton Blvd,Elk Grove,CA,95758,38.42589,-121.39805
+Woodland,2165 Bronze Star Dr,Woodland,CA,95776,38.67261,-121.72613
+Arden Fair,1901 Arden Way,Sacramento,CA,95815,38.59877,-121.4214
+Natomas,3690 N Freeway Blvd,Sacramento,CA,95834,38.63771,-121.49574
+Sacramento Airport (SMF) Gate B17/19,6850 Airport Blvd,Sacramento,CA,95837,38.692817,-121.591677
+Chico,2005 Forest Ave,Chico,CA,95928,39.72676,-121.80002
+Redding,1010 Hilltop Dr,Redding,CA,96003,40.59259,-122.35969
+Aiea,98-051 Kamehameha Hwy,Aiea,HI,96701,21.38454,-157.9499
+Westin Ka'anapali Ocean - Building 6,6 KAI ALA DR,LAHAINA,HI,96761,20.938409,-156.691721
+Hyatt Waikiki beach,2424 KALAKAUA AVE,HONOLULU,HI,96815,21.276067,-157.82509
+Honolulu,478 Alakawa St,Honolulu,HI,96817,21.31822,-157.87445
+Honolulu Airport (HNL) Gate 12,300 Rodgers Blvd,Honolulu,HI,96819,21.335633620619774,-157.91864924132824
+Honolulu Airport (HNL)Gate 22,300 Rodgers Blvd,Honolulu,HI,96819,21.335633620619774,-157.91864924132824
+Honolulu Airport (HNL) Gate 24,300 Rodgers Blvd,Honolulu,HI,96819,21.335633620619774,-157.91864924132824
+Honolulu AirportHNL Gate 55,300 Rodgers Blvd,Honolulu,HI,96819,21.335633620619774,-157.91864924132824
+Honolulu Airport (HNL) Gate 26,300 Rodgers Blvd,Honolulu,HI,96819,21.332564,-157.919781
+Honolulu Airport (HNL) Interisland Terminal,300 Rodgers Blvd,Honolulu,HI,96819,21.332563,-157.919785
+Beaverton,3055 SW Cedar Hills Blvd,Beaverton,OR,97005,45.4975,-122.81051
+Tanasbourne,18085 NW Evergreen Pkwy,Hillsboro,OR,97006,45.53881,-122.86276
+Gresham,1148 NW Norman Ave,Gresham,OR,97030,45.50547,-122.43746
+Tualatin,7041 SW Nyberg St,Tualatin,OR,97062,45.38541,-122.74931
+Clackamas,9630 SE 82nd Ave,Portland,OR,97086,45.45332,-122.5769
+Jantzen Beach,2055 N Tomahawk Island Dr,Portland,OR,97217,45.61493,-122.68615
+Cascade Station,9739 NE Cascades Pkwy,Portland,OR,97220,45.5752,-122.5616
+Salem,3801 Center St NE,Salem,OR,97301,44.94037,-122.98943
+Springfield,3300 Gateway St,Springfield,OR,97477,44.08147,-123.04516
+Medford,2370 Poplar Dr,Medford,OR,97504,42.35343,-122.86826
+Bend,63455 N Highway 97,Bend,OR,97701,44.10269,-121.30092
+Federal Way,31601 Pacific Hwy S,Federal Way,WA,98003,47.31826,-122.3153
+Bellevue,457 120th Ave NE,Bellevue,WA,98005,47.614,-122.18238
+Issaquah,6000 E Lake Sammamish Pkwy SE,Issaquah,WA,98029,47.54936,-122.0413
+LYNNWOOD OUTLET CENTER,19800 44TH AVE W,LYNNWOOD,WA,98036,47.81897,-122.29496
+Lynnwood,19225 Alderwood Mall Pkwy,Lynnwood,WA,98036,47.82335,-122.26959
+Northgate,330 NE Northgate Way,Seattle,WA,98125,47.70915,-122.32492
+Tukwila,17364 Southcenter Pkwy,Tukwila,WA,98188,47.44764,-122.26
+Everett,1130 SE Everett Mall Way,Everett,WA,98208,47.90992,-122.21731
+Bellingham,4281 Meridian St,Bellingham,WA,98226,48.79632,-122.48931
+BLI Gate C Holdroom,4255 Mitchell Way,Bellingham,WA,98226,48.789283,-122.534385
+Burlington,1851 Marketplace Dr,Burlington,WA,98233,48.45072,-122.33978
+Marysville,16924 Twin Lakes Ave,Marysville,WA,98271,48.15018,-122.1925
+Puyallup,4102 S Meridian,Puyallup,WA,98373,47.15187,-122.29508
+Silverdale,9551 Ridgetop Blvd NW,Silverdale,WA,98383,47.65515,-122.68004
+SEATTLE SALE EVENT,20209 34th Ave E,Spanaway,WA,98387,47.071474,-122.52623
+Tacoma,2214 S 48th St,Tacoma,WA,98409,47.2135,-122.46604
+Olympia Capital Mall,625 Black Lake Blvd SW,Olympia,WA,98502,47.04248,-122.93396
+Lacey,1240 Marvin Rd NE,Lacey,WA,98516,47.05791,-122.7621
+Yakima,2321 S 1st St,Yakima,WA,98903,46.56846,-120.48378
+Spokane East,15223 E Indiana Ave,Spokane,WA,99216,47.67261,-117.20061
+Spokane North,9970 N Newport Hwy,Spokane,WA,99218,47.74905,-117.39824
+Kennewick,6809 W Canal Dr,Kennewick,WA,99336,46.22485,-119.21224
+Ted Stevens Anchorage Airport (ANC) Gate C3,5000 West Intl Airport Rd,Anchorage,AK,99502,61.173493042588234,-149.97614286839962
+Ted Stevens Anchorage Airport (ANC)Gate B1,Anchorage Airport Concourse C,Anchorage,AK,99502,61.176658630371094,-149.96063232421875
+North Anchorage,1200 N Muldoon Rd,Anchorage,AK,99504,61.2256,-149.74642
+Anchorage,800 E Dimond Blvd,Anchorage,AK,99515,61.1433,-149.86588

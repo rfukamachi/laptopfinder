@@ -16,9 +16,9 @@ app = Flask(__name__)
 
 # Database Setup
 
-app.config["SQLALCHEMY_DATABASE_URI"] = os.environ.get('DATABASE_URL', '')
+app.config["SQLALCHEMY_DATABASE_URI"] = os.environ.get('DATABASE_URL', '') or "postgres://postgres:helloworld@localhost:5432/laptop_db"
 # "postgres://thwylvrffekvda:405fd770884eaf24a61072f0261d515cb8ae5d956cea328e7df49b65a5ca5377@ec2-107-22-228-141.compute-1.amazonaws.com:5432/d3pm17n787nc2k"
-#or "postgres://postgres:helloworld@localhost:5432/laptop_db"
+
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 # os.environ.get('DATABASE_URL', '')

@@ -82,6 +82,7 @@ body {
 .d3-tip {
   padding: 6px;
   font-size: 12px;
+  font-color: white;
   line-height: 1;
   line-height: 1.5em;
   color: #fff;
@@ -89,4 +90,8 @@ body {
   text-transform: capitalize;
   background: rgba(0, 0, 0, 0.8);
   border-radius: 4px;
+}
+
+h6 {
+  color: #fff;
 }
